@@ -1,0 +1,41 @@
+name: Refresh chain cinema schedule
+
+on:
+  schedule:
+    # Every 3 days at 05:00 UTC. GitHub Actions cron can silently skip a
+    # run under load, which is fine here — the app just reads whatever the
+    # most recent successful commit produced, and the next scheduled run
+    # (or a manual one below) picks up from wherever it left off.
+    - cron: "0 5 */3 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r tools/chain_schedule_scraper/requirements.txt
+
+      - name: Scrape chain schedules
+        run: python tools/chain_schedule_scraper/main.py
+
+      - name: Commit updated schedule if it changed
+        run: |
+          git config user.name "chain-schedule-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/schedule.json
+          if git diff --cached --quiet; then
+            echo "No schedule changes to commit."
+          else
+            git commit -m "Update chain cinema schedule"
+            git push
+          fi
