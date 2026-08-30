@@ -1,9 +1,9 @@
 # ChainScheduleSync
 
-A small, standalone scraper for Germany's big cinema chains (CineStar,
-Cineplex and Kinopolis), meant to be pushed to its own GitHub repo. It has
-nothing to do with the FilmScreeningTracker Xcode project directly — the
-app just downloads the JSON file this produces.
+A small, standalone scraper for Germany's big cinema chains (CineStar and
+Kinopolis), meant to be pushed to its own GitHub repo. It has nothing to do
+with the FilmScreeningTracker Xcode project directly — the app just
+downloads the JSON file this produces.
 
 ## Why this exists
 
@@ -16,12 +16,14 @@ clean environment — it can afford to be patient and just skip whatever it
 can't get this run, since there's always a next run in 3 days. The app
 reads whatever the most recent successful run produced.
 
-Not every chain belongs here, though. CinemaxX blocks these endpoints
-from datacenter IPs entirely, so it stays on-device where a residential
-connection reaches it normally (see `CINEMAXX_CI_BLOCK.md`), and the
-indie/arthouse cinemas are covered live by Kinoheld's own proximity
-search in the app. This repo is specifically for big chains whose APIs
-answer happily from CI.
+Not every chain belongs here, though. CinemaxX returns 401 to a GitHub
+Actions runner while answering the identical request from a residential
+connection, so it moved back into the app, which asks it directly from the
+device (`CINEMAXX_CI_BLOCK.md`). Cineplex refuses non-browser clients
+anywhere, in CI and on a phone alike, so it is closed entirely
+(`CINEPLEX_INVESTIGATION_ROUND2.md`). The indie/arthouse cinemas are covered
+live by Kinoheld's own proximity search in the app. This repo is
+specifically for the big chains whose APIs answer happily from CI.
 
 ## One-time setup
 
@@ -57,19 +59,17 @@ in the first place if it ever has to be redone).
 ## What's in here
 
 - `tools/chain_schedule_scraper/` — the actual Python scraper. `main.py`
-  is the entry point; `scrape_cinestar.py`, `scrape_cineplex.py` and
-  `scrape_kinopolis.py` are one module per chain, and are the three that
-  actually run. Adding another chain means adding `scrape_<chain>.py` with
-  a `fetch_<chain>() -> (cinemas, screenings)` function and registering it
-  in `main.py`'s `SCRAPERS` dict.
-- `tools/chain_schedule_scraper/scrape_cinemaxx.py` — present but NOT
-  registered in `SCRAPERS`, on purpose. CinemaxX blocks `/showingDates`
-  from datacenter IPs, so it returns nothing at all from a GitHub Actions
-  runner; the iOS app asks CinemaxX directly from the device instead. See
-  `CINEMAXX_CI_BLOCK.md`. Kept on disk so re-enabling it is one line if
+  is the entry point; `scrape_cinestar.py` and `scrape_kinopolis.py` are
+  the two that actually run. Adding another chain means adding
+  `scrape_<chain>.py` with a `fetch_<chain>() -> (cinemas, screenings)`
+  function and registering it in `main.py`'s `SCRAPERS` dict.
+- `scrape_cinemaxx.py` — present but NOT registered in `SCRAPERS`, on
+  purpose: CinemaxX returns 401 to a CI runner while serving the same
+  requests from a residential connection, so the iOS app asks it directly
+  from the device instead. Kept on disk so re-enabling it is one line if
   that ever changes.
-- `tools/chain_schedule_scraper/test_scrape_cineplex.py` and
-  `test_scrape_kinopolis.py` — tests for those two modules, network-free
+- `tools/chain_schedule_scraper/test_scrape_kinopolis.py` — tests for that
+  module, network-free
   (the HTTP layer is stubbed with shapes copied from real responses). Run
   them with
   `python -m unittest discover tools/chain_schedule_scraper` or `pytest`;

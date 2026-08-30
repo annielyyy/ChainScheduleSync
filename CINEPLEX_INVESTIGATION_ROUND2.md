@@ -195,3 +195,97 @@ searched, so a film whose actual name contains "OV" isn't mislabelled.
   error — worth an eyeball on the total in the Action log now and then.
   The dry-run baseline to compare against is ~12,000 screenings across 90
   centers.
+
+---
+
+## Round 3 (2026-08-30): the API works, but not from CI
+
+The scraper built above went live and returned **zero** cinemas and zero
+screenings on its first real GitHub Actions run. The job still reported
+success, because `main.py` treats one chain failing as survivable — the
+run's schedule.json was CineStar + Kinopolis only (60 cinemas, 8,698
+screenings), with Cineplex contributing nothing.
+
+The single log line that explains it:
+
+```
+[cineplex] cinemaCenters returned HTTP 403 — skipping Cineplex entirely this run.
+```
+
+That is the *first* request the scraper makes, before it has a cinema list
+to iterate or a single coordinate to look up. So this is not the
+`CINEMA_LOCATIONS` table missing ids, and not a parsing problem — the
+endpoint refused the runner outright.
+
+This is the same shape as CinemaxX's block, one status code apart
+(CinemaxX: 401 on `/showingDates`; Cineplex: 403 on `/cinemaCenters`), and
+the same asymmetry: the identical requests returned complete data during
+this investigation from a residential connection minutes earlier.
+
+**Cineplex has therefore been removed from `SCRAPERS` in `main.py`**, for
+the same reason CinemaxX was, and `scrape_cineplex.py` is kept on disk so
+re-enabling it is a one-line change if the block ever lifts.
+
+### Open question before doing anything else
+
+CinemaxX's block was demonstrably about the *network origin* — the app's
+own `CinemaxXShowtimeProvider` (plain `URLSession`, no browser) reaches it
+fine from a phone, which is why moving it on-device worked.
+
+It is **not yet established** that Cineplex's 403 is the same kind of
+block. Everything proven so far about Cineplex's API succeeding was
+observed through a real browser, which carries browser TLS characteristics
+and headers that a plain HTTP client does not. If the 403 is bot
+protection keyed on that rather than on the IP range, then an on-device
+Swift provider would get a 403 too, and porting one would be wasted work.
+
+The cheap way to settle it, before writing any Swift, is one request from a
+residential connection using a non-browser client:
+
+```
+curl -s -o /dev/null -w "%{http_code}\n" \
+  https://tickets.cineplex.de/api/ticketing/cinemaCenters
+```
+
+- `200` → the block is about datacenter IPs, same as CinemaxX. Port a
+  `CineplexShowtimeProvider` to the app, reusing this module's
+  `CINEMA_LOCATIONS` table for the proximity filter. On-device this is
+  *cheaper* than the scraper was: only the one or two centers near the
+  person get a films request, not all 96.
+- `403` → the block is on non-browser clients generally. Cineplex is a
+  genuine dead end for this project; delete the module and stop here.
+
+---
+
+## Final verdict (2026-08-30): dead end, module deleted
+
+Two tests from a residential connection, non-browser client:
+
+```
+curl .../api/ticketing/cinemaCenters                        -> 403
+curl .../api/ticketing/cinemaCenters  + UA, Accept,
+     Accept-Language, Referer (the exact header set the
+     iOS app sends, which measurably helped CinemaxX)      -> 403
+```
+
+So the earlier CI 403 was never about datacenter IPs. `tickets.cineplex.de`
+refuses non-browser clients wherever they run. Everything this
+investigation ever observed working — including the 96-center, ~11,900
+screening dry run — happened inside a real browser, which carries TLS
+characteristics and header ordering no plain HTTP client reproduces.
+
+That rules out both routes at once: it can't run in CI (403), and an
+on-device `CineplexShowtimeProvider` would get the same 403 from a phone.
+Porting one would have been wasted work, which is the whole reason this
+was tested before writing any Swift.
+
+Getting past it would mean impersonating a browser convincingly enough to
+defeat bot detection — the same line already declined for CinemaxX's
+proxy, and declined again here.
+
+**`scrape_cineplex.py` and `test_scrape_cineplex.py` have been deleted.**
+This document is kept as the record: it holds the real endpoint shapes and
+the coordinate-table research, so if Cineplex ever publishes an API or
+drops the check, the work is recoverable without starting over.
+
+Cineplex is closed unless something changes on their side.
