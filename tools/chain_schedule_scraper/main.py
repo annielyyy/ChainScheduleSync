@@ -21,14 +21,24 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from scrape_cinemaxx import fetch_cinemaxx  # noqa: E402
+from scrape_cineplex import fetch_cineplex  # noqa: E402
 from scrape_cinestar import fetch_cinestar  # noqa: E402
+from scrape_kinopolis import fetch_kinopolis  # noqa: E402
 
 OUTPUT_PATH = Path(__file__).resolve().parents[2] / "data" / "schedule.json"
 
+# CinemaxX is deliberately absent. It is NOT broken and NOT abandoned — it
+# moved back on-device, into the app's own `CinemaxXShowtimeProvider`.
+# CinemaxX refuses `/showingDates` to datacenter IP ranges, so every cinema
+# 401s from a GitHub Actions runner while the identical request from a
+# residential connection returns full data. See CINEMAXX_CI_BLOCK.md for the
+# side-by-side proof and why routing around that block was not the answer.
+# `scrape_cinemaxx.py` is kept in the repo rather than deleted, so this is
+# a one-line change if CinemaxX ever stops blocking cloud IPs.
 SCRAPERS = {
-    "cinemaxx": fetch_cinemaxx,
     "cinestar": fetch_cinestar,
+    "cineplex": fetch_cineplex,
+    "kinopolis": fetch_kinopolis,
 }
 
 
