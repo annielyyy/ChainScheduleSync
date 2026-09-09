@@ -1,0 +1,2348 @@
+{
+ "generatedAt": "2026-08-30T22:15:54Z",
+ "source": "Kinoheld cinema search, geocoded via Nominatim (OpenStreetMap)",
+ "cinemas": {
+  "100": {
+   "name": "Burg Theater Burg",
+   "city": "Burg bei Magdeburg",
+   "lat": 52.27058,
+   "lng": 11.85148
+  },
+  "1000": {
+   "name": "Neue Schauburg Burgdorf",
+   "city": "Burgdorf",
+   "lat": 52.44873,
+   "lng": 10.00552
+  },
+  "1001": {
+   "name": "Neue Welt Kinocenter Weiden",
+   "city": "Weiden",
+   "lat": 49.68062,
+   "lng": 12.1538
+  },
+  "1004": {
+   "name": "Neues Krone Kino Lindenberg im Allgäu",
+   "city": "Lindenberg im Allgäu",
+   "lat": 47.60191,
+   "lng": 9.88768
+  },
+  "101": {
+   "name": "Burgtheater Kinos Hechingen",
+   "city": "Hechingen",
+   "lat": 48.34995,
+   "lng": 8.96358
+  },
+  "1011": {
+   "name": "Obenkino im Glad-House Cottbus",
+   "city": "Cottbus",
+   "lat": 51.75432,
+   "lng": 14.33373
+  },
+  "1018": {
+   "name": "ODEON Lichtspieltheater Köln",
+   "city": "Köln",
+   "lat": 50.92533,
+   "lng": 6.95818
+  },
+  "1019": {
+   "name": "Off Broadway Kino Köln",
+   "city": "Köln",
+   "lat": 50.92968,
+   "lng": 6.93787
+  },
+  "104": {
+   "name": "Burgtheater Bad Langensalza",
+   "city": "Bad Langensalza",
+   "lat": 51.10947,
+   "lng": 10.64735
+  },
+  "1049": {
+   "name": "Parktheater und Studio Lindau",
+   "city": "Lindau",
+   "lat": 47.54848,
+   "lng": 9.68787
+  },
+  "105": {
+   "name": "Burgtheater Ratzeburg",
+   "city": "Ratzeburg",
+   "lat": 53.69656,
+   "lng": 10.77486
+  },
+  "1053": {
+   "name": "Passage Kino Hamburg",
+   "city": "Hamburg",
+   "lat": 53.55049,
+   "lng": 9.99838
+  },
+  "1057": {
+   "name": "Passage Kinos Leipzig",
+   "city": "Leipzig",
+   "lat": 51.34219,
+   "lng": 12.37238
+  },
+  "1058": {
+   "name": "Passage-Kinos Saarbrücken",
+   "city": "Saarbrücken",
+   "lat": 49.23739,
+   "lng": 6.99233
+  },
+  "1059": {
+   "name": "Pastori - das historische Lichtspielgasthaus Weilmünster",
+   "city": "Weilmünster",
+   "lat": 50.43328,
+   "lng": 8.37002
+  },
+  "1063": {
+   "name": "Filmbühne Postkutsche Dortmund",
+   "city": "Dortmund",
+   "lat": 51.49136,
+   "lng": 7.55376
+  },
+  "1067": {
+   "name": "Central im Bürgerbräu Würzburg",
+   "city": "Würzburg",
+   "lat": 49.7942,
+   "lng": 9.89417
+  },
+  "1068": {
+   "name": "Programmkino im Audi Forum Ingolstadt",
+   "city": "Ingolstadt",
+   "lat": 48.78092,
+   "lng": 11.42441
+  },
+  "1069": {
+   "name": "Programmkino Ost Dresden",
+   "city": "Dresden",
+   "lat": 51.03942,
+   "lng": 13.80661
+  },
+  "108": {
+   "name": "b-ware! Ladenkino",
+   "city": "Berlin",
+   "lat": 52.54623,
+   "lng": 13.50495
+  },
+  "1083": {
+   "name": "Regina-Palast Leipzig",
+   "city": "Leipzig",
+   "lat": 51.33905,
+   "lng": 12.40149
+  },
+  "1093": {
+   "name": "Rex Lichtspieltheater Bonn",
+   "city": "Bonn",
+   "lat": 50.72756,
+   "lng": 7.07496
+  },
+  "1103": {
+   "name": "Weltspiegel Kino Mettmann",
+   "city": "Mettmann",
+   "lat": 51.25284,
+   "lng": 6.97649
+  },
+  "112": {
+   "name": "Camera am Holzberg Helmstedt",
+   "city": "Helmstedt",
+   "lat": 52.22683,
+   "lng": 11.0085
+  },
+  "1122": {
+   "name": "SCALA Programmkino Lüneburg",
+   "city": "Lüneburg",
+   "lat": 53.24908,
+   "lng": 10.40721
+  },
+  "1126": {
+   "name": "Scala Cinema Leverkusen",
+   "city": "Leverkusen",
+   "lat": 51.063,
+   "lng": 7.00476
+  },
+  "1128": {
+   "name": "Scala Filmtheater Öhringen",
+   "city": "Öhringen",
+   "lat": 49.20249,
+   "lng": 9.50441
+  },
+  "1131": {
+   "name": "Scala Kino Center Hof",
+   "city": "Hof",
+   "lat": 50.31401,
+   "lng": 11.91726
+  },
+  "1134": {
+   "name": "Scala Kulturpalast Werder",
+   "city": "Werder",
+   "lat": 52.38194,
+   "lng": 12.93291
+  },
+  "1141": {
+   "name": "Bremer Filmkunst Theater Schauburg",
+   "city": "Bremen",
+   "lat": 53.07219,
+   "lng": 8.82944
+  },
+  "1142": {
+   "name": "Schauburg-Kino Neuwied",
+   "city": "Neuwied",
+   "lat": 50.43264,
+   "lng": 7.46533
+  },
+  "1146": {
+   "name": "Schmelzer Lichtspiele",
+   "city": "Schmelz",
+   "lat": 49.44603,
+   "lng": 6.85187
+  },
+  "1151": {
+   "name": "MovieCenterMoers",
+   "city": "Moers",
+   "lat": 51.4517,
+   "lng": 6.62336
+  },
+  "116": {
+   "name": "Capitol Altenburg",
+   "city": "Altenburg",
+   "lat": 50.98203,
+   "lng": 12.43588
+  },
+  "1160": {
+   "name": "Sonnenlichtspiele Gaildorf",
+   "city": "Gaildorf",
+   "lat": 48.99979,
+   "lng": 9.77122
+  },
+  "1162": {
+   "name": "Spectrum Kino Center Norderstedt",
+   "city": "Norderstedt",
+   "lat": 53.70769,
+   "lng": 9.99025
+  },
+  "1166": {
+   "name": "Sputnik Kino Berlin",
+   "city": "Berlin",
+   "lat": 52.48949,
+   "lng": 13.41004
+  },
+  "1176": {
+   "name": "Starlight Kino Bad Neustadt",
+   "city": "Bad Neustadt an der Saale",
+   "lat": 50.32477,
+   "lng": 10.22157
+  },
+  "1182": {
+   "name": "Studio-Kino Hamburg",
+   "city": "Hamburg",
+   "lat": 53.55731,
+   "lng": 9.95834
+  },
+  "1184": {
+   "name": "Studio Isabella München",
+   "city": "München",
+   "lat": 48.15534,
+   "lng": 11.57018
+  },
+  "1185": {
+   "name": "Studio Filmtheater am Dreiecksplatz Kiel",
+   "city": "Kiel",
+   "lat": 54.32842,
+   "lng": 10.13327
+  },
+  "1193": {
+   "name": "Thalia Kino Berlin",
+   "city": "Berlin",
+   "lat": 52.43493,
+   "lng": 13.34485
+  },
+  "1198": {
+   "name": "Thalia Lichtspiele Bous",
+   "city": "Bous",
+   "lat": 49.27592,
+   "lng": 6.79418
+  },
+  "12": {
+   "name": "Alte Brennerei Schwake Ennigerloh",
+   "city": "Ennigerloh",
+   "lat": 51.83663,
+   "lng": 8.02333
+  },
+  "1203": {
+   "name": "Tilsiter Lichtspiele Berlin",
+   "city": "Berlin",
+   "lat": 52.52075,
+   "lng": 13.44735
+  },
+  "1206": {
+   "name": "Traumpalast Waiblingen",
+   "city": "Waiblingen",
+   "lat": 48.82898,
+   "lng": 9.30656
+  },
+  "1208": {
+   "name": "Traumpalast Esslingen",
+   "city": "Esslingen",
+   "lat": 48.74077,
+   "lng": 9.29883
+  },
+  "1209": {
+   "name": "Traumpalast Nürtingen",
+   "city": "Nürtingen",
+   "lat": 48.62673,
+   "lng": 9.3411
+  },
+  "121": {
+   "name": "Capitol-Kino Plauen",
+   "city": "Plauen",
+   "lat": 50.50003,
+   "lng": 12.13601
+  },
+  "1210": {
+   "name": "Traumpalast Schorndorf",
+   "city": "Schorndorf (Württemberg)",
+   "lat": 48.80524,
+   "lng": 9.52216
+  },
+  "1211": {
+   "name": "Traumpalast Backnang",
+   "city": "Backnang",
+   "lat": 48.94588,
+   "lng": 9.42811
+  },
+  "1247": {
+   "name": "Kino UNION Friedrichshagen Berlin",
+   "city": "Berlin",
+   "lat": 52.45633,
+   "lng": 13.6257
+  },
+  "1256": {
+   "name": "Universum Filmtheater Braunschweig",
+   "city": "Braunschweig",
+   "lat": 52.26402,
+   "lng": 10.52059
+  },
+  "1258": {
+   "name": "Universum Soest",
+   "city": "Soest, Westfalen",
+   "lat": 51.5684,
+   "lng": 8.11193
+  },
+  "126": {
+   "name": "Capitol Filmpalast Schleswig",
+   "city": "Schleswig",
+   "lat": 54.5162,
+   "lng": 9.56574
+  },
+  "1265": {
+   "name": "UT 99 Greiz",
+   "city": "Greiz",
+   "lat": 50.65669,
+   "lng": 12.20018
+  },
+  "1266": {
+   "name": "UT-Kinos Saarbrücken",
+   "city": "Saarbrücken",
+   "lat": 49.23468,
+   "lng": 6.99327
+  },
+  "1277": {
+   "name": "Weisshaus Kino Köln",
+   "city": "Köln",
+   "lat": 50.91696,
+   "lng": 6.9294
+  },
+  "1282": {
+   "name": "Wied Scala Neitersen",
+   "city": "Neitersen, Westerwald",
+   "lat": 50.66631,
+   "lng": 7.58925
+  },
+  "1283": {
+   "name": "WOKI Bonn",
+   "city": "Bonn",
+   "lat": 50.73772,
+   "lng": 7.1015
+  },
+  "1287": {
+   "name": "Zebra Kino e.V. Konstanz",
+   "city": "Konstanz",
+   "lat": 47.67886,
+   "lng": 9.16308
+  },
+  "1294": {
+   "name": "Kommunales Kino in der Pumpe Kiel",
+   "city": "Kiel",
+   "lat": 54.32453,
+   "lng": 10.13825
+  },
+  "130": {
+   "name": "Capitol 3D Kino Herford",
+   "city": "Herford",
+   "lat": 52.11497,
+   "lng": 8.66925
+  },
+  "1307": {
+   "name": "Drehwerk 17|19 Bühne Wachtberg",
+   "city": "Wachtberg",
+   "lat": 50.61365,
+   "lng": 7.05555
+  },
+  "1319": {
+   "name": "Rhönlichtspiele Bad Brückenau",
+   "city": "Bad Brückenau",
+   "lat": 50.31068,
+   "lng": 9.79349
+  },
+  "132": {
+   "name": "Capitol Kino Bernburg",
+   "city": "Bernburg",
+   "lat": 51.7936,
+   "lng": 11.74509
+  },
+  "1330": {
+   "name": "Bremer Filmkunst Theater Gondel",
+   "city": "Bremen",
+   "lat": 53.08542,
+   "lng": 8.85207
+  },
+  "134": {
+   "name": "Capitol Kino Lohhof",
+   "city": "Unterschleißheim",
+   "lat": 48.28009,
+   "lng": 11.58096
+  },
+  "1361": {
+   "name": "Burg-Lichtspiele Karlstadt",
+   "city": "Karlstadt",
+   "lat": 49.95949,
+   "lng": 9.75861
+  },
+  "1380": {
+   "name": "Kinocenter vor dem Kremper Tor Neustadt",
+   "city": "Neustadt in Holstein",
+   "lat": 54.11013,
+   "lng": 10.81673
+  },
+  "1385": {
+   "name": "Donau Lichtspiele Offingen",
+   "city": "Offingen",
+   "lat": 48.47971,
+   "lng": 10.36412
+  },
+  "1391": {
+   "name": "Saalbau Lichtspiele Rodgau",
+   "city": "Rodgau",
+   "lat": 50.02246,
+   "lng": 8.8863
+  },
+  "1392": {
+   "name": "Löwenlichtspiele Rudersberg",
+   "city": "Rudersberg",
+   "lat": 48.88677,
+   "lng": 9.53166
+  },
+  "1396": {
+   "name": "Gloria Service Kino Schmelz",
+   "city": "Schmelz",
+   "lat": 49.41899,
+   "lng": 6.83379
+  },
+  "140": {
+   "name": "Capitol Theater Kino Kerpen",
+   "city": "Kerpen",
+   "lat": 50.87044,
+   "lng": 6.69742
+  },
+  "1400": {
+   "name": "Ring Kino Schwarzenberg",
+   "city": "Schwarzenberg",
+   "lat": 50.54628,
+   "lng": 12.7835
+  },
+  "1404": {
+   "name": "Kino Atelier und Cafe Haag Tübingen",
+   "city": "Tübingen",
+   "lat": 48.52039,
+   "lng": 9.04981
+  },
+  "1409": {
+   "name": "Kulturzentrum Linse Weingarten",
+   "city": "Weingarten",
+   "lat": 47.80449,
+   "lng": 9.637
+  },
+  "147": {
+   "name": "Cadillac - Casablanca Kinocenter Ingelheim",
+   "city": "Ingelheim",
+   "lat": 49.97467,
+   "lng": 8.05617
+  },
+  "148": {
+   "name": "Casablanca Filmkunsttheater Nürnberg",
+   "city": "Nürnberg",
+   "lat": 49.43809,
+   "lng": 11.08139
+  },
+  "1496": {
+   "name": "Filmwelt Schweinfurt",
+   "city": "Schweinfurt",
+   "lat": 50.04724,
+   "lng": 10.2355
+  },
+  "1514": {
+   "name": "Movies Bad Mergentheim",
+   "city": "Bad Mergentheim",
+   "lat": 49.49418,
+   "lng": 9.7732
+  },
+  "1533": {
+   "name": "SWK Open-Air-Kino",
+   "city": "Krefeld",
+   "lat": 51.35809,
+   "lng": 6.58698
+  },
+  "1543": {
+   "name": "Freilichtkino Ingolstadt",
+   "city": "Ingolstadt",
+   "lat": 48.75268,
+   "lng": 11.42256
+  },
+  "155": {
+   "name": "Casino Filmtheater Aschaffenburg",
+   "city": "Aschaffenburg",
+   "lat": 49.97488,
+   "lng": 9.14955
+  },
+  "1563": {
+   "name": "IL Kino Berlin",
+   "city": "Berlin",
+   "lat": 52.49165,
+   "lng": 13.43297
+  },
+  "157": {
+   "name": "Kino Central Freudenstadt",
+   "city": "Freudenstadt",
+   "lat": 48.46507,
+   "lng": 8.41449
+  },
+  "1575": {
+   "name": "Burgfilmfest Wertheim",
+   "city": "Wertheim",
+   "lat": 49.75877,
+   "lng": 9.51976
+  },
+  "1583": {
+   "name": "LOTTO Hamburg Schanzenkino",
+   "city": "Hamburg",
+   "lat": 53.56403,
+   "lng": 9.96915
+  },
+  "1587": {
+   "name": "Kino auf der Burg Esslingen",
+   "city": "Esslingen",
+   "lat": 48.73856,
+   "lng": 9.30931
+  },
+  "1589": {
+   "name": "EM-Festival Stuttgart",
+   "city": "Stuttgart",
+   "lat": 48.77984,
+   "lng": 9.17879
+  },
+  "1593": {
+   "name": "Mercedes-Benz Museum Open Air Kino",
+   "city": "Stuttgart",
+   "lat": 48.7882,
+   "lng": 9.23399
+  },
+  "16": {
+   "name": "Union Kino Ingolstadt",
+   "city": "Ingolstadt",
+   "lat": 48.76246,
+   "lng": 11.42444
+  },
+  "1603": {
+   "name": "Open Air Kino Pforzheim",
+   "city": "Pforzheim",
+   "lat": 48.89315,
+   "lng": 8.68836
+  },
+  "1615": {
+   "name": "Open-Air-Kino im Wildpark Bad Mergentheim",
+   "city": "Bad Mergentheim",
+   "lat": 49.46982,
+   "lng": 9.79228
+  },
+  "1629": {
+   "name": "Rex Filmtheater Wuppertal",
+   "city": "Wuppertal",
+   "lat": 51.25821,
+   "lng": 7.14972
+  },
+  "163": {
+   "name": "Central-Kino Berlin",
+   "city": "Berlin",
+   "lat": 52.52449,
+   "lng": 13.40192
+  },
+  "1643": {
+   "name": "Calwer Sommerkino Hirsau",
+   "city": "Calw",
+   "lat": 48.73834,
+   "lng": 8.72981
+  },
+  "1649": {
+   "name": "Filmraum Hamburg",
+   "city": "Hamburg",
+   "lat": 53.57981,
+   "lng": 9.94256
+  },
+  "1653": {
+   "name": "Freiluftkino Friedrichshagen",
+   "city": "Berlin",
+   "lat": 52.4635,
+   "lng": 13.62307
+  },
+  "166": {
+   "name": "Central-Kino Hof",
+   "city": "Hof",
+   "lat": 50.31847,
+   "lng": 11.91514
+  },
+  "173": {
+   "name": "Central-Lichtspiele Kinowelt Herzberg",
+   "city": "Herzberg am Harz",
+   "lat": 51.65564,
+   "lng": 10.33911
+  },
+  "177": {
+   "name": "Centraltheater Brake",
+   "city": "Brake",
+   "lat": 53.32796,
+   "lng": 8.48435
+  },
+  "179": {
+   "name": "Central Theater Grimma",
+   "city": "Grimma",
+   "lat": 51.23604,
+   "lng": 12.72634
+  },
+  "1835": {
+   "name": "Kinostar Arthaus-Kino Heilbronn",
+   "city": "Heilbronn",
+   "lat": 49.14152,
+   "lng": 9.21559
+  },
+  "1837": {
+   "name": "Lichtspielhaus Sohler Wangen",
+   "city": "Wangen im Allgäu",
+   "lat": 47.6852,
+   "lng": 9.83165
+  },
+  "1839": {
+   "name": "open air mitte",
+   "city": "Berlin",
+   "lat": 52.52449,
+   "lng": 13.40192
+  },
+  "1851": {
+   "name": "Filmladen Kassel",
+   "city": "Kassel",
+   "lat": 51.31421,
+   "lng": 9.47298
+  },
+  "1856": {
+   "name": "Wolf Kino Berlin",
+   "city": "Berlin",
+   "lat": 52.48271,
+   "lng": 13.442
+  },
+  "1865": {
+   "name": "Traumpalast Leonberg",
+   "city": "Leonberg (Württemberg)",
+   "lat": 48.78265,
+   "lng": 9.01617
+  },
+  "187": {
+   "name": "Cinecenter Cloppenburg",
+   "city": "Cloppenburg",
+   "lat": 52.84861,
+   "lng": 8.04565
+  },
+  "190": {
+   "name": "Cinecity und Kammer Filmtheater Crailsheim",
+   "city": "Crailsheim",
+   "lat": 49.13939,
+   "lng": 10.06729
+  },
+  "1906": {
+   "name": "Kamino Reutlingen",
+   "city": "Reutlingen",
+   "lat": 48.48712,
+   "lng": 9.21989
+  },
+  "1926": {
+   "name": "Klick Kino Berlin",
+   "city": "Berlin",
+   "lat": 52.50533,
+   "lng": 13.29945
+  },
+  "194": {
+   "name": "CINEMA Arthouse Kino",
+   "city": "Frankfurt am Main",
+   "lat": 50.11261,
+   "lng": 8.67853
+  },
+  "197": {
+   "name": "Cinema Dachau",
+   "city": "Dachau",
+   "lat": 48.26287,
+   "lng": 11.47376
+  },
+  "203": {
+   "name": "Cinema Europa Zweibrücken",
+   "city": "Zweibrücken",
+   "lat": 49.24927,
+   "lng": 7.34979
+  },
+  "211": {
+   "name": "Cinema Quadrat Mannheim",
+   "city": "Mannheim",
+   "lat": 49.49204,
+   "lng": 8.46995
+  },
+  "2127": {
+   "name": "Kino Aurich",
+   "city": "Aurich",
+   "lat": 53.46999,
+   "lng": 7.47109
+  },
+  "213": {
+   "name": "Cinema Wuppertal",
+   "city": "Wuppertal",
+   "lat": 51.27419,
+   "lng": 7.2142
+  },
+  "2135": {
+   "name": "HALL OF FAME Kamp-Lintfort",
+   "city": "Kamp-Lintfort",
+   "lat": 51.49898,
+   "lng": 6.54884
+  },
+  "2137": {
+   "name": "Lichtspiele Köln Kalk",
+   "city": "Köln",
+   "lat": 50.94276,
+   "lng": 7.00168
+  },
+  "2151": {
+   "name": "Traumpalast Schwäbisch Gmünd",
+   "city": "Schwäbisch Gmünd",
+   "lat": 48.79996,
+   "lng": 9.79362
+  },
+  "2155": {
+   "name": "Metropol Lichtspieltheater Wundervoll Rostock",
+   "city": "Rostock",
+   "lat": 54.0879,
+   "lng": 12.12011
+  },
+  "2181": {
+   "name": "Freiluftkino Grömitz",
+   "city": "Grömitz",
+   "lat": 54.14603,
+   "lng": 10.96544
+  },
+  "224": {
+   "name": "Das Lumen Filmtheater Solingen",
+   "city": "Solingen",
+   "lat": 51.17341,
+   "lng": 7.08481
+  },
+  "2247": {
+   "name": "SEVEN Kinocenter Gummersbach",
+   "city": "Gummersbach",
+   "lat": 51.02478,
+   "lng": 7.56428
+  },
+  "2261": {
+   "name": "Kinosommer am Waschhaus Potsdam",
+   "city": "Potsdam",
+   "lat": 52.40331,
+   "lng": 13.07329
+  },
+  "2271": {
+   "name": "Open Air Schloß Schöningen",
+   "city": "Schöningen",
+   "lat": 52.14046,
+   "lng": 10.96548
+  },
+  "2277": {
+   "name": "Wittgensteiner Open-Air-Kino",
+   "city": "Erndtebrück",
+   "lat": 50.99114,
+   "lng": 8.23925
+  },
+  "2289": {
+   "name": "Movie Nights im Nells Park Hotel Trier",
+   "city": "Trier",
+   "lat": 49.77076,
+   "lng": 6.66958
+  },
+  "2331": {
+   "name": "Zebra Kino e.V. Open Air",
+   "city": "Konstanz",
+   "lat": 47.67385,
+   "lng": 9.1594
+  },
+  "2339": {
+   "name": "b-ware! OpenAir Prinzessinnengarten Kollektiv Neukölln",
+   "city": "Berlin",
+   "lat": 52.46973,
+   "lng": 13.42971
+  },
+  "2391": {
+   "name": "HALL OF FAME Osnabrück",
+   "city": "Osnabrück",
+   "lat": 52.27223,
+   "lng": 8.05872
+  },
+  "2409": {
+   "name": "CineMotion Lüdinghausen",
+   "city": "Lüdinghausen",
+   "lat": 51.7748,
+   "lng": 7.44774
+  },
+  "2423": {
+   "name": "Kino Intimes Berlin",
+   "city": "Berlin",
+   "lat": 52.51291,
+   "lng": 13.4582
+  },
+  "250": {
+   "name": "CineMotion Bremerhaven",
+   "city": "Bremerhaven",
+   "lat": 53.5405,
+   "lng": 8.58177
+  },
+  "251": {
+   "name": "CineMotion Hoyerswerda",
+   "city": "Hoyerswerda",
+   "lat": 51.4382,
+   "lng": 14.24521
+  },
+  "253": {
+   "name": "CineMotion Itzehoe",
+   "city": "Itzehoe",
+   "lat": 53.92507,
+   "lng": 9.51751
+  },
+  "254": {
+   "name": "CineMotion Berlin-Hohenschönhausen",
+   "city": "Berlin",
+   "lat": 52.56618,
+   "lng": 13.50891
+  },
+  "255": {
+   "name": "Cinenova Kino Köln",
+   "city": "Köln",
+   "lat": 50.95135,
+   "lng": 6.9113
+  },
+  "257": {
+   "name": "CinePark Krumbach",
+   "city": "Krumbach",
+   "lat": 48.24346,
+   "lng": 10.36204
+  },
+  "2659": {
+   "name": "Open Air Kino Freibad Hemkenrode",
+   "city": "Cremlingen",
+   "lat": 52.23004,
+   "lng": 10.70123
+  },
+  "2661": {
+   "name": "Lichthaus Open Air Kino Weimar",
+   "city": "Weimar",
+   "lat": 50.98528,
+   "lng": 11.33207
+  },
+  "2705": {
+   "name": "Autokino Butjadingen",
+   "city": "Butjadingen",
+   "lat": 53.55388,
+   "lng": 8.38443
+  },
+  "2723": {
+   "name": "UC Kino Bergen auf Rügen",
+   "city": "Bergen auf Rügen",
+   "lat": 54.42383,
+   "lng": 13.42084
+  },
+  "2773": {
+   "name": "Sommerkino im Tierpark Dessau",
+   "city": "Dessau, Anhalt",
+   "lat": 51.84703,
+   "lng": 12.23494
+  },
+  "2797": {
+   "name": "Corso Kino Mayen",
+   "city": "Mayen",
+   "lat": 50.33018,
+   "lng": 7.22745
+  },
+  "2819": {
+   "name": "Kulturhof Krönbacken Erfurt",
+   "city": "Erfurt",
+   "lat": 50.97916,
+   "lng": 11.02842
+  },
+  "2845": {
+   "name": "Open Air Wasserburg/Bodensee",
+   "city": "Wasserburg (Bodensee)",
+   "lat": 47.56662,
+   "lng": 9.64145
+  },
+  "2889": {
+   "name": "Sommerkino Porta",
+   "city": "Porta Westfalica",
+   "lat": 52.26223,
+   "lng": 8.90644
+  },
+  "2893": {
+   "name": "Kinoklub im Schauspielhaus Erfurt",
+   "city": "Erfurt",
+   "lat": 50.97315,
+   "lng": 11.02515
+  },
+  "2899": {
+   "name": "Wörlitzer Filmtage",
+   "city": "Oranienbaum-Wörlitz",
+   "lat": 51.83879,
+   "lng": 12.42941
+  },
+  "29": {
+   "name": "Arena Filmtheater München",
+   "city": "München",
+   "lat": 48.12984,
+   "lng": 11.57017
+  },
+  "292": {
+   "name": "Cinemoon Pforzheim",
+   "city": "Pforzheim",
+   "lat": 48.89067,
+   "lng": 8.69555
+  },
+  "2929": {
+   "name": "Kronen Lichtspiele Rodgau",
+   "city": "Rodgau",
+   "lat": 50.02828,
+   "lng": 8.88442
+  },
+  "2931": {
+   "name": "Mondscheinkino am Hermannsdenkmal Detmold",
+   "city": "Detmold",
+   "lat": 51.91137,
+   "lng": 8.84167
+  },
+  "2933": {
+   "name": "Sinema Transtopia Berlin",
+   "city": "Berlin",
+   "lat": 52.5438,
+   "lng": 13.36724
+  },
+  "2935": {
+   "name": "Kino Méliès Göttingen",
+   "city": "Göttingen",
+   "lat": 51.53099,
+   "lng": 9.92794
+  },
+  "3": {
+   "name": "Abaton Kino Hamburg",
+   "city": "Hamburg",
+   "lat": 53.56767,
+   "lng": 9.98204
+  },
+  "3001": {
+   "name": "Gersthofer Kinosommer",
+   "city": "Gersthofen",
+   "lat": 48.42581,
+   "lng": 10.87847
+  },
+  "3039": {
+   "name": "Kino im Kulturhaus Spandau Berlin",
+   "city": "Berlin",
+   "lat": 52.53553,
+   "lng": 13.20228
+  },
+  "3041": {
+   "name": "Openairkino Spandau Berlin",
+   "city": "Berlin",
+   "lat": 52.53613,
+   "lng": 13.20139
+  },
+  "3069": {
+   "name": "Open-Air-Kino im Zoo Osnabrück",
+   "city": "Osnabrück",
+   "lat": 52.25105,
+   "lng": 8.07158
+  },
+  "3089": {
+   "name": "Campus Filmnächte Aschaffenburg",
+   "city": "Aschaffenburg",
+   "lat": 49.97117,
+   "lng": 9.16062
+  },
+  "3091": {
+   "name": "Sommernachtskino Geislingen",
+   "city": "Geislingen",
+   "lat": 48.6269,
+   "lng": 9.83152
+  },
+  "3103": {
+   "name": "Open-Air Schloß Schöningen",
+   "city": "Schöningen",
+   "lat": 52.14046,
+   "lng": 10.96548
+  },
+  "3167": {
+   "name": "Utopolis Multiplex Kino Coburg",
+   "city": "Coburg",
+   "lat": 50.26347,
+   "lng": 10.96797
+  },
+  "3169": {
+   "name": "Traumpalast-IMAX Leonberg",
+   "city": "Leonberg (Württemberg)",
+   "lat": 48.78265,
+   "lng": 9.01617
+  },
+  "3205": {
+   "name": "Wandelhof Extra Kinowelt Schwarzheide",
+   "city": "Schwarzheide",
+   "lat": 51.48293,
+   "lng": 13.84203
+  },
+  "3207": {
+   "name": "Eulenspiegel Essen",
+   "city": "Essen",
+   "lat": 51.44983,
+   "lng": 7.03284
+  },
+  "3211": {
+   "name": "Gartenkino Birgden",
+   "city": "Gangelt",
+   "lat": 51.00964,
+   "lng": 6.05892
+  },
+  "3213": {
+   "name": "KiTT Tettnang",
+   "city": "Tettnang",
+   "lat": 47.66954,
+   "lng": 9.58696
+  },
+  "3221": {
+   "name": "Freiluftkino INSEL@ ATELIER GARDENS",
+   "city": "Berlin",
+   "lat": 52.46479,
+   "lng": 13.41066
+  },
+  "3225": {
+   "name": "FilmBühne Bad Nauheim",
+   "city": "Bad Nauheim",
+   "lat": 50.36516,
+   "lng": 8.74066
+  },
+  "3227": {
+   "name": "Gemeinschaftshaus Langwasser Nürnberg",
+   "city": "Nürnberg",
+   "lat": 49.40193,
+   "lng": 11.13676
+  },
+  "3243": {
+   "name": "Open Air Kino Hagnau",
+   "city": "Hagnau am Bodensee",
+   "lat": 47.67249,
+   "lng": 9.32673
+  },
+  "3245": {
+   "name": "Open Air Kino Ostrach",
+   "city": "Ostrach",
+   "lat": 47.95176,
+   "lng": 9.37677
+  },
+  "3247": {
+   "name": "Central Open Air Würzburg",
+   "city": "Würzburg",
+   "lat": 49.7942,
+   "lng": 9.89417
+  },
+  "3249": {
+   "name": "Open Air Gernsbach",
+   "city": "Gernsbach",
+   "lat": 48.7632,
+   "lng": 8.3357
+  },
+  "3259": {
+   "name": "Open Air Burg Frankenberg Aachen",
+   "city": "Aachen",
+   "lat": 50.76766,
+   "lng": 6.10435
+  },
+  "33": {
+   "name": "Kino Arsenal Tübingen",
+   "city": "Tübingen",
+   "lat": 48.52291,
+   "lng": 9.0543
+  },
+  "3305": {
+   "name": "City Kino Wedding Berlin",
+   "city": "Berlin",
+   "lat": 52.55836,
+   "lng": 13.33923
+  },
+  "3311": {
+   "name": "Gloria Filmpalast Erkelenz",
+   "city": "Erkelenz",
+   "lat": 51.07787,
+   "lng": 6.31002
+  },
+  "3313": {
+   "name": "Kinorama Unna",
+   "city": "Unna",
+   "lat": 51.53437,
+   "lng": 7.68584
+  },
+  "3333": {
+   "name": "Kommunales Kino Tivoli Achern",
+   "city": "Achern (Baden)",
+   "lat": 48.62838,
+   "lng": 8.07287
+  },
+  "3341": {
+   "name": "Cineo - Dein Kino in der Wassermühle Friesoythe",
+   "city": "Friesoythe",
+   "lat": 53.01942,
+   "lng": 7.86018
+  },
+  "3343": {
+   "name": "CICO Kaufbeuren",
+   "city": "Kaufbeuren",
+   "lat": 47.89233,
+   "lng": 10.65465
+  },
+  "3529": {
+   "name": "Cosima-Filmtheater Berlin",
+   "city": "Berlin",
+   "lat": 52.47696,
+   "lng": 13.33045
+  },
+  "3533": {
+   "name": "Open Air Meppen",
+   "city": "Meppen",
+   "lat": 52.69515,
+   "lng": 7.29445
+  },
+  "3563": {
+   "name": "Apollo Kino Ibbenbüren",
+   "city": "Ibbenbüren",
+   "lat": 52.27252,
+   "lng": 7.7133
+  },
+  "3567": {
+   "name": "Open Air Papenburg",
+   "city": "Papenburg",
+   "lat": 53.08201,
+   "lng": 7.39098
+  },
+  "3573": {
+   "name": "Cinema im Ostertor Bremen",
+   "city": "Bremen",
+   "lat": 53.07271,
+   "lng": 8.82289
+  },
+  "3579": {
+   "name": "Eulenspiegelkino Mölln",
+   "city": "Mölln",
+   "lat": 53.63168,
+   "lng": 10.70912
+  },
+  "3581": {
+   "name": "Forum Velbert",
+   "city": "Velbert",
+   "lat": 51.34172,
+   "lng": 7.04708
+  },
+  "3593": {
+   "name": "Capitol Kino in Bad Berleburg",
+   "city": "Bad Berleburg",
+   "lat": 51.05067,
+   "lng": 8.39187
+  },
+  "3595": {
+   "name": "Studiokino Ratingen",
+   "city": "Ratingen",
+   "lat": 51.29744,
+   "lng": 6.84882
+  },
+  "3597": {
+   "name": "Metropol Stuttgart",
+   "city": "Stuttgart",
+   "lat": 48.78019,
+   "lng": 9.17777
+  },
+  "3599": {
+   "name": "Traum-Kino Kiel",
+   "city": "Kiel",
+   "lat": 54.33501,
+   "lng": 10.11685
+  },
+  "3605": {
+   "name": "Universum Kino Palast Bad Kissingen",
+   "city": "Bad Kissingen",
+   "lat": 50.20582,
+   "lng": 10.08145
+  },
+  "3607": {
+   "name": "Loe Studios Marl",
+   "city": "Marl, Westfalen",
+   "lat": 51.66326,
+   "lng": 7.13101
+  },
+  "3623": {
+   "name": "Kino Blaue Brücke Tübingen",
+   "city": "Tübingen",
+   "lat": 48.51718,
+   "lng": 9.06177
+  },
+  "3625": {
+   "name": "Kino Museum Tübingen",
+   "city": "Tübingen",
+   "lat": 48.52237,
+   "lng": 9.05752
+  },
+  "3627": {
+   "name": "Kino Atelier Tübingen",
+   "city": "Tübingen",
+   "lat": 48.52039,
+   "lng": 9.04981
+  },
+  "3629": {
+   "name": "Walhalla Kinocenter Pirmasens",
+   "city": "Pirmasens",
+   "lat": 49.19406,
+   "lng": 7.60995
+  },
+  "3637": {
+   "name": "Freiluftkino Neue Zukunft",
+   "city": "Berlin",
+   "lat": 52.49746,
+   "lng": 13.46586
+  },
+  "3645": {
+   "name": "Schauburg Leipzig",
+   "city": "Leipzig",
+   "lat": 51.32007,
+   "lng": 12.32852
+  },
+  "3647": {
+   "name": "Wanderkino Erfurt",
+   "city": "Erfurt",
+   "lat": 50.97502,
+   "lng": 11.0344
+  },
+  "3651": {
+   "name": "ABC KINO MÜNCHEN",
+   "city": "München",
+   "lat": 48.16178,
+   "lng": 11.58579
+  },
+  "3653": {
+   "name": "LEOPOLD KINO MÜNCHEN",
+   "city": "München",
+   "lat": 48.16071,
+   "lng": 11.58652
+  },
+  "3657": {
+   "name": "Kinostar Lichtspiele Schwäbisch Hall",
+   "city": "Schwäbisch Hall",
+   "lat": 49.11007,
+   "lng": 9.73348
+  },
+  "3659": {
+   "name": "Kinostar Gloria Schwäbisch Hall",
+   "city": "Schwäbisch Hall",
+   "lat": 49.10892,
+   "lng": 9.73674
+  },
+  "3667": {
+   "name": "Roxy Kino Wertheim",
+   "city": "Wertheim",
+   "lat": 49.76176,
+   "lng": 9.51057
+  },
+  "3673": {
+   "name": "Open Air Lindau/Bodensee",
+   "city": "Lindau",
+   "lat": 47.55186,
+   "lng": 9.71425
+  },
+  "3681": {
+   "name": "CAPITOL Mainz",
+   "city": "Mainz",
+   "lat": 50.00243,
+   "lng": 8.26461
+  },
+  "3699": {
+   "name": "Colosseum Center Kempten",
+   "city": "Kempten",
+   "lat": 47.72228,
+   "lng": 10.31348
+  },
+  "3711": {
+   "name": "Brühl Cinema Zeitz",
+   "city": "Zeitz",
+   "lat": 51.05016,
+   "lng": 12.12895
+  },
+  "3715": {
+   "name": "Filmbühne Mittweida",
+   "city": "Mittweida",
+   "lat": 50.98676,
+   "lng": 12.97696
+  },
+  "3717": {
+   "name": "Prisma Cinema Halle-Neustadt",
+   "city": "Halle (Saale)",
+   "lat": 51.48036,
+   "lng": 11.91964
+  },
+  "3723": {
+   "name": "EMOTION Kino Monheim",
+   "city": "Monheim am Rhein",
+   "lat": 51.0904,
+   "lng": 6.88982
+  },
+  "3725": {
+   "name": "Schloß Theater Miltenberg",
+   "city": "Miltenberg",
+   "lat": 49.6998,
+   "lng": 9.25599
+  },
+  "3749": {
+   "name": "Neue Schauburg Northeim",
+   "city": "Northeim",
+   "lat": 51.70642,
+   "lng": 10.00078
+  },
+  "3753": {
+   "name": "Regina Filmtheater Regensburg",
+   "city": "Regensburg",
+   "lat": 49.02836,
+   "lng": 12.10439
+  },
+  "3755": {
+   "name": "Neues Maxim Kino München",
+   "city": "München",
+   "lat": 48.14974,
+   "lng": 11.53638
+  },
+  "3759": {
+   "name": "Metropol Gera",
+   "city": "Gera",
+   "lat": 50.88027,
+   "lng": 12.08439
+  },
+  "3765": {
+   "name": "moviac - Kino im Kaiserhof",
+   "city": "Baden-Baden",
+   "lat": 48.76144,
+   "lng": 8.24212
+  },
+  "3783": {
+   "name": "FoolsKINO",
+   "city": "Holzkirchen",
+   "lat": 47.8772,
+   "lng": 11.70057
+  },
+  "3785": {
+   "name": "Metropolis im Planet Harburg",
+   "city": "Hamburg",
+   "lat": 53.46017,
+   "lng": 9.98368
+  },
+  "3787": {
+   "name": "Movie Star Kino Dillenburg",
+   "city": "Dillenburg",
+   "lat": 50.74102,
+   "lng": 8.28947
+  },
+  "3793": {
+   "name": "Open Air Weiler",
+   "city": "Weiler-Simmerberg",
+   "lat": 47.58418,
+   "lng": 9.91408
+  },
+  "3795": {
+   "name": "Kino Alte Brauerei Stegen",
+   "city": "Inning am Ammersee",
+   "lat": 48.07626,
+   "lng": 11.1386
+  },
+  "3803": {
+   "name": "Staufen Kino Göppingen",
+   "city": "Göppingen",
+   "lat": 48.70229,
+   "lng": 9.65638
+  },
+  "3807": {
+   "name": "Open Air im Josefshof",
+   "city": "Völkersweiler",
+   "lat": 49.17452,
+   "lng": 7.93899
+  },
+  "3811": {
+   "name": "Union Kino Luckenwalde",
+   "city": "Luckenwalde",
+   "lat": 52.08615,
+   "lng": 13.1709
+  },
+  "3813": {
+   "name": "Open Air im Stadtpark Cloppenburg",
+   "city": "Cloppenburg",
+   "lat": 52.84861,
+   "lng": 8.04565
+  },
+  "3817": {
+   "name": "Sommerkino Rahden",
+   "city": "Rahden",
+   "lat": 52.43034,
+   "lng": 8.66578
+  },
+  "3831": {
+   "name": "Central Kino Wittenberg",
+   "city": "Lutherstadt Wittenberg",
+   "lat": 51.86975,
+   "lng": 12.65329
+  },
+  "3839": {
+   "name": "BETHAUS URBAN",
+   "city": "Berlin",
+   "lat": 52.48785,
+   "lng": 13.42329
+  },
+  "3843": {
+   "name": "3001 KINO Hamburg",
+   "city": "Hamburg",
+   "lat": 53.56224,
+   "lng": 9.96533
+  },
+  "3845": {
+   "name": "Lichtspiele Nagold",
+   "city": "Nagold",
+   "lat": 48.54863,
+   "lng": 8.72109
+  },
+  "3847": {
+   "name": "Odeon Kino Merzig",
+   "city": "Merzig",
+   "lat": 49.53431,
+   "lng": 6.53785
+  },
+  "3859": {
+   "name": "Roxy Filmtheater Heinsberg",
+   "city": "Heinsberg",
+   "lat": 51.06192,
+   "lng": 6.09501
+  },
+  "3867": {
+   "name": "THALIA – DAS PROGRAMMKINO POTSDAM",
+   "city": "Potsdam",
+   "lat": 52.3921,
+   "lng": 13.09525
+  },
+  "3870": {
+   "name": "Thalia Augsburg",
+   "city": "Augsburg",
+   "lat": 48.37078,
+   "lng": 10.8969
+  },
+  "3879": {
+   "name": "Lechflimmern Open Air Augsburg",
+   "city": "Augsburg",
+   "lat": 48.37483,
+   "lng": 10.88061
+  },
+  "3881": {
+   "name": "Kino Open Air am Business Campus in USH",
+   "city": "Unterschleißheim",
+   "lat": 48.27344,
+   "lng": 11.56033
+  },
+  "3883": {
+   "name": "Theater Norden",
+   "city": "Norden",
+   "lat": 53.60098,
+   "lng": 7.21366
+  },
+  "3885": {
+   "name": "Open Air Kino Alla-Hopp!",
+   "city": "Ilbesheim bei Landau in der Pfalz",
+   "lat": 49.18682,
+   "lng": 8.05229
+  },
+  "3891": {
+   "name": "powered by kinoheld Blockbuster",
+   "city": "Hamburg",
+   "lat": 53.56151,
+   "lng": 9.9863
+  },
+  "3899": {
+   "name": "Tichelpark Cinemas Kleve",
+   "city": "Kleve",
+   "lat": 51.79971,
+   "lng": 6.13606
+  },
+  "39": {
+   "name": "Astra Theater Essen",
+   "city": "Essen",
+   "lat": 51.45312,
+   "lng": 7.01456
+  },
+  "3901": {
+   "name": "Open Air Kino Barntrup",
+   "city": "Barntrup",
+   "lat": 51.98787,
+   "lng": 9.1175
+  },
+  "404": {
+   "name": "Cineworld Lünen",
+   "city": "Lünen",
+   "lat": 51.61508,
+   "lng": 7.52188
+  },
+  "408": {
+   "name": "City 46 Kommunalkino Bremen e.V.",
+   "city": "Bremen",
+   "lat": 53.08019,
+   "lng": 8.81007
+  },
+  "419": {
+   "name": "Club Kino Zinnowitz",
+   "city": "Zinnowitz",
+   "lat": 54.07813,
+   "lng": 13.91092
+  },
+  "42": {
+   "name": "Atelier am Bollwerk",
+   "city": "Stuttgart",
+   "lat": 48.77667,
+   "lng": 9.16828
+  },
+  "426": {
+   "name": "Comet Cine Center Mönchengladbach",
+   "city": "Mönchengladbach",
+   "lat": 51.19533,
+   "lng": 6.43477
+  },
+  "432": {
+   "name": "Corso-Filmpalast Hückelhoven",
+   "city": "Hückelhoven",
+   "lat": 51.04297,
+   "lng": 6.2221
+  },
+  "440": {
+   "name": "Das Lumen Filmtheater Düren",
+   "city": "Düren",
+   "lat": 50.80823,
+   "lng": 6.47667
+  },
+  "442": {
+   "name": "Delphi Arthaus Kino",
+   "city": "Stuttgart",
+   "lat": 48.77299,
+   "lng": 9.17451
+  },
+  "445": {
+   "name": "Delphin-Palast Wolfsburg",
+   "city": "Wolfsburg",
+   "lat": 52.42317,
+   "lng": 10.78847
+  },
+  "450": {
+   "name": "Die Filminsel - Kommunales Kino Biblis",
+   "city": "Biblis",
+   "lat": 49.68579,
+   "lng": 8.45392
+  },
+  "452": {
+   "name": "Donau-Lichtspiele DoLi Wörth an der Donau",
+   "city": "Wörth an der Donau",
+   "lat": 48.99852,
+   "lng": 12.397
+  },
+  "455": {
+   "name": "Drehwerk 17|19 Kino Wachtberg",
+   "city": "Wachtberg",
+   "lat": 50.61365,
+   "lng": 7.05555
+  },
+  "456": {
+   "name": "Kinoparadies Oberndorf",
+   "city": "Oberndorf am Neckar",
+   "lat": 48.29273,
+   "lng": 8.57394
+  },
+  "465": {
+   "name": "Elbe Filmtheater Hamburg",
+   "city": "Hamburg",
+   "lat": 53.57283,
+   "lng": 9.85088
+  },
+  "466": {
+   "name": "ELDORADO Arthouse Kino",
+   "city": "Frankfurt am Main",
+   "lat": 50.117,
+   "lng": 8.68528
+  },
+  "469": {
+   "name": "Gloria Stuttgart",
+   "city": "Stuttgart",
+   "lat": 48.72717,
+   "lng": 9.11881
+  },
+  "47": {
+   "name": "Bremer Filmkunst Theater Atlantis",
+   "city": "Bremen",
+   "lat": 53.07483,
+   "lng": 8.80577
+  },
+  "470": {
+   "name": "EM-Kino Stuttgart",
+   "city": "Stuttgart",
+   "lat": 48.77984,
+   "lng": 9.17879
+  },
+  "471": {
+   "name": "Kino Papenburg",
+   "city": "Papenburg",
+   "lat": 53.08201,
+   "lng": 7.39098
+  },
+  "517": {
+   "name": "filmkunst 66 Berlin",
+   "city": "Berlin",
+   "lat": 52.50443,
+   "lng": 13.31966
+  },
+  "518": {
+   "name": "Open-Air-Kino Kassel",
+   "city": "Kassel",
+   "lat": 51.31421,
+   "lng": 9.49818
+  },
+  "522": {
+   "name": "Filmpalast Wolfenbüttel",
+   "city": "Wolfenbüttel",
+   "lat": 52.16147,
+   "lng": 10.54039
+  },
+  "525": {
+   "name": "Filmpalast Bernau",
+   "city": "Bernau bei Berlin",
+   "lat": 52.67738,
+   "lng": 13.59724
+  },
+  "526": {
+   "name": "Filmpalast Oranienburg",
+   "city": "Oranienburg",
+   "lat": 52.75007,
+   "lng": 13.23774
+  },
+  "535": {
+   "name": "Filmrauschpalast Berlin",
+   "city": "Berlin",
+   "lat": 52.53445,
+   "lng": 13.36001
+  },
+  "539": {
+   "name": "Filmstudio Glückauf Essen",
+   "city": "Essen",
+   "lat": 51.44341,
+   "lng": 7.0069
+  },
+  "54": {
+   "name": "Autokino Greifensteine am Freizeitbad bei Geyer",
+   "city": "Geyer",
+   "lat": 50.63433,
+   "lng": 12.92776
+  },
+  "545": {
+   "name": "Filmtheater Wertingen",
+   "city": "Wertingen",
+   "lat": 48.56091,
+   "lng": 10.68346
+  },
+  "547": {
+   "name": "Ostseekino Kühlungsborn",
+   "city": "Kühlungsborn, Ostseebad",
+   "lat": 54.15129,
+   "lng": 11.72053
+  },
+  "557": {
+   "name": "Filmtheater Schauburg Dresden",
+   "city": "Dresden",
+   "lat": 51.07124,
+   "lng": 13.75005
+  },
+  "558": {
+   "name": "Filmtheater Union Fürstenwalde",
+   "city": "Fürstenwalde, Spree",
+   "lat": 52.36048,
+   "lng": 14.0596
+  },
+  "561": {
+   "name": "Filmtheater Weltspiegel Cottbus",
+   "city": "Cottbus",
+   "lat": 51.75627,
+   "lng": 14.33189
+  },
+  "566": {
+   "name": "Filmzentrum Bären Böblingen",
+   "city": "Böblingen",
+   "lat": 48.68389,
+   "lng": 9.01349
+  },
+  "573": {
+   "name": "Capitol Kino Zeil",
+   "city": "Zeil am Main",
+   "lat": 50.0088,
+   "lng": 10.59683
+  },
+  "580": {
+   "name": "Freiluftkino Hasenheide",
+   "city": "Berlin",
+   "lat": 52.48362,
+   "lng": 13.41631
+  },
+  "593": {
+   "name": "Galerie Cinema Essen",
+   "city": "Essen",
+   "lat": 51.43417,
+   "lng": 7.00894
+  },
+  "594": {
+   "name": "Garbo Kino Regensburg",
+   "city": "Regensburg",
+   "lat": 49.02065,
+   "lng": 12.09048
+  },
+  "595": {
+   "name": "Kino Meppen",
+   "city": "Meppen",
+   "lat": 52.69515,
+   "lng": 7.29445
+  },
+  "596": {
+   "name": "Gloria Kino Center Geislingen",
+   "city": "Geislingen",
+   "lat": 48.61748,
+   "lng": 9.84168
+  },
+  "597": {
+   "name": "Gloria & Gloriette Heidelberg",
+   "city": "Heidelberg",
+   "lat": 49.4115,
+   "lng": 8.70735
+  },
+  "598": {
+   "name": "Gloria Filmpalast Annaberg Buchholz",
+   "city": "Annaberg-Buchholz",
+   "lat": 50.5788,
+   "lng": 13.00184
+  },
+  "600": {
+   "name": "Gloria Kino Kassel",
+   "city": "Kassel",
+   "lat": 51.3141,
+   "lng": 9.48785
+  },
+  "609": {
+   "name": "Grefi Kino Grevenbroich",
+   "city": "Grevenbroich",
+   "lat": 51.0886,
+   "lng": 6.59393
+  },
+  "613": {
+   "name": "Kino Haar",
+   "city": "Haar",
+   "lat": 48.10831,
+   "lng": 11.72255
+  },
+  "614": {
+   "name": "Hackesche Höfe Kino Berlin",
+   "city": "Berlin",
+   "lat": 52.52407,
+   "lng": 13.40191
+  },
+  "618": {
+   "name": "Hansa Kino Syke",
+   "city": "Syke",
+   "lat": 52.91337,
+   "lng": 8.82643
+  },
+  "619": {
+   "name": "Hansa Kino Lemgo",
+   "city": "Lemgo",
+   "lat": 52.02965,
+   "lng": 8.90058
+  },
+  "621": {
+   "name": "HARMONIE Arthouse Kino",
+   "city": "Frankfurt am Main",
+   "lat": 50.10349,
+   "lng": 8.69082
+  },
+  "623": {
+   "name": "Haveltorkino Rathenow",
+   "city": "Rathenow",
+   "lat": 52.60864,
+   "lng": 12.32895
+  },
+  "627": {
+   "name": "Herzogtheater Geldern",
+   "city": "Geldern",
+   "lat": 51.51586,
+   "lng": 6.32586
+  },
+  "633": {
+   "name": "Hollywood am Inn",
+   "city": "Mühldorf am Inn",
+   "lat": 48.25096,
+   "lng": 12.51862
+  },
+  "635": {
+   "name": "IMAX 3D Laser 4K Kino Sinsheim",
+   "city": "Sinsheim",
+   "lat": 49.23887,
+   "lng": 8.89607
+  },
+  "638": {
+   "name": "Isar Kinocenter Bad Tölz",
+   "city": "Bad Tölz",
+   "lat": 47.75203,
+   "lng": 11.56101
+  },
+  "64": {
+   "name": "Bali-Kino Alzey",
+   "city": "Alzey",
+   "lat": 49.74939,
+   "lng": 8.11075
+  },
+  "640": {
+   "name": "Kamera Heidelberg",
+   "city": "Heidelberg",
+   "lat": 49.41541,
+   "lng": 8.69231
+  },
+  "641": {
+   "name": "Kammerlichtspiele Königslutter",
+   "city": "Königslutter",
+   "lat": 52.25283,
+   "lng": 10.81243
+  },
+  "649": {
+   "name": "Kempener Lichtspiele",
+   "city": "Kempen",
+   "lat": 51.36442,
+   "lng": 6.41802
+  },
+  "656": {
+   "name": "Kino Bad Driburg",
+   "city": "Bad Driburg",
+   "lat": 51.73445,
+   "lng": 9.02418
+  },
+  "658": {
+   "name": "Kinostar Scala Neckarsulm",
+   "city": "Neckarsulm",
+   "lat": 49.19258,
+   "lng": 9.22603
+  },
+  "66": {
+   "name": "Bali-Kinos Kassel",
+   "city": "Kassel",
+   "lat": 51.31834,
+   "lng": 9.4896
+  },
+  "661": {
+   "name": "Odeon Kino Bamberg",
+   "city": "Bamberg",
+   "lat": 49.89806,
+   "lng": 10.89451
+  },
+  "665": {
+   "name": "Kino am Olympiasee",
+   "city": "München",
+   "lat": 48.17357,
+   "lng": 11.55142
+  },
+  "67": {
+   "name": "Bambi und Camera Kino Bad Schwalbach",
+   "city": "Bad Schwalbach",
+   "lat": 50.14458,
+   "lng": 8.07618
+  },
+  "670": {
+   "name": "Babylon",
+   "city": "Berlin",
+   "lat": 52.5259,
+   "lng": 13.41144
+  },
+  "672": {
+   "name": "Kino BiiGZ",
+   "city": "Günzburg",
+   "lat": 48.45274,
+   "lng": 10.28622
+  },
+  "679": {
+   "name": "Kino Casablanca Berlin",
+   "city": "Berlin",
+   "lat": 52.52581,
+   "lng": 13.42869
+  },
+  "685": {
+   "name": "CiD - Cinema in Döbeln",
+   "city": "Döbeln",
+   "lat": 51.12111,
+   "lng": 13.11371
+  },
+  "693": {
+   "name": "Kino Gelnhausen (Pali / Casino)",
+   "city": "Gelnhausen",
+   "lat": 50.20652,
+   "lng": 9.17806
+  },
+  "698": {
+   "name": "Zentralkino Dresden",
+   "city": "Dresden",
+   "lat": 51.05256,
+   "lng": 13.7213
+  },
+  "728": {
+   "name": "Kino Lumière Göttingen",
+   "city": "Göttingen",
+   "lat": 51.52767,
+   "lng": 9.94415
+  },
+  "736": {
+   "name": "Kino Movieland Erkner",
+   "city": "Erkner",
+   "lat": 52.42218,
+   "lng": 13.75369
+  },
+  "744": {
+   "name": "Ostentor Kino Regensburg",
+   "city": "Regensburg",
+   "lat": 49.01796,
+   "lng": 12.10958
+  },
+  "746": {
+   "name": "Kino Rekord Lichtspiele Auerbach",
+   "city": "Auerbach, Vogtland",
+   "lat": 50.50305,
+   "lng": 12.39901
+  },
+  "747": {
+   "name": "Rio Filmtheater Mülheim",
+   "city": "Mülheim an der Ruhr",
+   "lat": 51.42895,
+   "lng": 6.88243
+  },
+  "748": {
+   "name": "Rio Filmpalast München",
+   "city": "München",
+   "lat": 48.12875,
+   "lng": 11.5929
+  },
+  "750": {
+   "name": "Roxy Lichtspiele Helmstedt",
+   "city": "Helmstedt",
+   "lat": 52.23273,
+   "lng": 11.00673
+  },
+  "756": {
+   "name": "Toni Berlin",
+   "city": "Berlin",
+   "lat": 52.54882,
+   "lng": 13.45093
+  },
+  "759": {
+   "name": "CineMotion Langenhagen",
+   "city": "Langenhagen",
+   "lat": 52.441,
+   "lng": 9.73652
+  },
+  "764": {
+   "name": "Kino Zukunft Berlin",
+   "city": "Berlin",
+   "lat": 52.49746,
+   "lng": 13.46586
+  },
+  "766": {
+   "name": "Kino im Bürgerhaus Groitzsch",
+   "city": "Groitzsch",
+   "lat": 51.1568,
+   "lng": 12.28049
+  },
+  "77": {
+   "name": "Berli Theater Hürth",
+   "city": "Hürth",
+   "lat": 50.87432,
+   "lng": 6.81453
+  },
+  "770": {
+   "name": "Kino Boizenburg",
+   "city": "Boizenburg, Elbe",
+   "lat": 53.37418,
+   "lng": 10.72214
+  },
+  "776": {
+   "name": "Kinocenter Rio - Scala - Hali in Haslach",
+   "city": "Haslach im Kinzigtal",
+   "lat": 48.2783,
+   "lng": 8.08682
+  },
+  "778": {
+   "name": "Kinocenter Winsen",
+   "city": "Winsen",
+   "lat": 53.36426,
+   "lng": 10.2083
+  },
+  "785": {
+   "name": "Kinocenter Nittenau",
+   "city": "Nittenau",
+   "lat": 49.19791,
+   "lng": 12.26266
+  },
+  "786": {
+   "name": "Kino-Center Leer",
+   "city": "Leer",
+   "lat": 53.23033,
+   "lng": 7.45957
+  },
+  "796": {
+   "name": "Kinocenter Borken",
+   "city": "Borken, Westfalen",
+   "lat": 51.84729,
+   "lng": 6.85977
+  },
+  "798": {
+   "name": "Capitol Filmpalast Albstadt",
+   "city": "Albstadt (Württemberg)",
+   "lat": 48.21309,
+   "lng": 9.01455
+  },
+  "800": {
+   "name": "Filmwelt Landau",
+   "city": "Landau",
+   "lat": 49.18781,
+   "lng": 8.1317
+  },
+  "806": {
+   "name": "Oberland Kinocenter Hausham",
+   "city": "Hausham",
+   "lat": 47.75135,
+   "lng": 11.84077
+  },
+  "809": {
+   "name": "Schwanen Kinos Hechingen",
+   "city": "Hechingen",
+   "lat": 48.35618,
+   "lng": 8.97022
+  },
+  "81": {
+   "name": "Blankeneser Kino Hamburg",
+   "city": "Hamburg",
+   "lat": 53.55906,
+   "lng": 9.81114
+  },
+  "811": {
+   "name": "Kinocenter Theaterhaus Speyer",
+   "city": "Speyer",
+   "lat": 49.3375,
+   "lng": 8.42167
+  },
+  "812": {
+   "name": "Kinocenter Trifthof Weilheim",
+   "city": "Weilheim",
+   "lat": 47.83193,
+   "lng": 11.12769
+  },
+  "814": {
+   "name": "Lichtspielhaus Deggendorf",
+   "city": "Deggendorf",
+   "lat": 48.83422,
+   "lng": 12.95982
+  },
+  "815": {
+   "name": "Kinodrom Bocholt",
+   "city": "Bocholt",
+   "lat": 51.83806,
+   "lng": 6.60865
+  },
+  "819": {
+   "name": "Kinoklub am Hirschlachufer",
+   "city": "Erfurt",
+   "lat": 50.97502,
+   "lng": 11.0344
+  },
+  "820": {
+   "name": "Kino Krokodil Berlin",
+   "city": "Berlin",
+   "lat": 52.55232,
+   "lng": 13.41945
+  },
+  "828": {
+   "name": "Kino Passage Erlenbach",
+   "city": "Erlenbach am Main",
+   "lat": 49.80297,
+   "lng": 9.15504
+  },
+  "842": {
+   "name": "Kinos im Andreasstadel Regensburg",
+   "city": "Regensburg",
+   "lat": 49.02421,
+   "lng": 12.10034
+  },
+  "843": {
+   "name": "Kinostar Filmwelt Mosbach",
+   "city": "Mosbach",
+   "lat": 49.34521,
+   "lng": 9.10602
+  },
+  "844": {
+   "name": "Kinostar Filmwelt Bretten",
+   "city": "Bretten",
+   "lat": 49.03722,
+   "lng": 8.70324
+  },
+  "858": {
+   "name": "Kommunales Kino Pforzheim",
+   "city": "Pforzheim",
+   "lat": 48.89302,
+   "lng": 8.704
+  },
+  "860": {
+   "name": "Kommunales Kino Esslingen",
+   "city": "Esslingen",
+   "lat": 48.73856,
+   "lng": 9.30931
+  },
+  "862": {
+   "name": "Kommunales Kino Weiterstadt",
+   "city": "Weiterstadt",
+   "lat": 49.90686,
+   "lng": 8.58488
+  },
+  "872": {
+   "name": "Concerthaus Kino Brandenburg",
+   "city": "Brandenburg an der Havel",
+   "lat": 52.40736,
+   "lng": 12.56035
+  },
+  "873": {
+   "name": "Koralle Lichtspielhaus Hamburg",
+   "city": "Hamburg",
+   "lat": 53.65145,
+   "lng": 10.16302
+  },
+  "881": {
+   "name": "KuK Filmtheater Schweinfurt",
+   "city": "Schweinfurt",
+   "lat": 50.04564,
+   "lng": 10.21167
+  },
+  "895": {
+   "name": "Kino Digital im Hohenstaufensaal Annweiler am Trifels",
+   "city": "Annweiler am Trifels",
+   "lat": 49.20338,
+   "lng": 7.96631
+  },
+  "897": {
+   "name": "Kurtheater Hennef",
+   "city": "Hennef",
+   "lat": 50.77606,
+   "lng": 7.27587
+  },
+  "90": {
+   "name": "BRAZIL Programmkino Schwäbisch Gmünd",
+   "city": "Schwäbisch Gmünd",
+   "lat": 48.80057,
+   "lng": 9.80125
+  },
+  "904": {
+   "name": "Lichtblick-Kino Berlin",
+   "city": "Berlin",
+   "lat": 52.53647,
+   "lng": 13.4078
+  },
+  "905": {
+   "name": "Lichtburg Essen",
+   "city": "Essen",
+   "lat": 51.45487,
+   "lng": 7.01357
+  },
+  "910": {
+   "name": "Lichtburg Filmpalast Oberhausen",
+   "city": "Oberhausen",
+   "lat": 51.47049,
+   "lng": 6.85415
+  },
+  "911": {
+   "name": "Lichthaus Kino im Straßenbahndepot Weimar",
+   "city": "Weimar",
+   "lat": 50.98528,
+   "lng": 11.33207
+  },
+  "914": {
+   "name": "Lichtspiel Kino Bamberg",
+   "city": "Bamberg",
+   "lat": 49.89781,
+   "lng": 10.88984
+  },
+  "92": {
+   "name": "Broadway Trier",
+   "city": "Trier",
+   "lat": 49.76128,
+   "lng": 6.64593
+  },
+  "920": {
+   "name": "Lichtspielhaus Fürstenfeldbruck",
+   "city": "Fürstenfeldbruck",
+   "lat": 48.1828,
+   "lng": 11.25489
+  },
+  "924": {
+   "name": "Frieda 23 Lichtspieltheater Wundervoll Rostock",
+   "city": "Rostock",
+   "lat": 54.09098,
+   "lng": 12.12313
+  },
+  "925": {
+   "name": "Lichtwerk im Ravensberger Park Bielefeld",
+   "city": "Bielefeld",
+   "lat": 52.02214,
+   "lng": 8.54456
+  },
+  "927": {
+   "name": "Liliom Augsburg",
+   "city": "Augsburg",
+   "lat": 48.37228,
+   "lng": 10.90062
+  },
+  "935": {
+   "name": "Luchs Kino am Zoo Halle",
+   "city": "Halle (Saale)",
+   "lat": 51.506,
+   "lng": 11.96083
+  },
+  "95": {
+   "name": "Bünder Lichtspiele",
+   "city": "Bünde",
+   "lat": 52.19605,
+   "lng": 8.581
+  },
+  "953": {
+   "name": "Filmpalast Maxx Hameln",
+   "city": "Hameln",
+   "lat": 52.10175,
+   "lng": 9.37367
+  },
+  "964": {
+   "name": "MERKUR-Film-Center Gaggenau",
+   "city": "Gaggenau",
+   "lat": 48.79001,
+   "lng": 8.33433
+  },
+  "967": {
+   "name": "Metropol am Postplatz Böblingen",
+   "city": "Böblingen",
+   "lat": 48.68564,
+   "lng": 9.01559
+  },
+  "970": {
+   "name": "Metropolis Kino Hamburg",
+   "city": "Hamburg",
+   "lat": 53.55627,
+   "lng": 9.9889
+  },
+  "975": {
+   "name": "Metropol-Center Neuwied",
+   "city": "Neuwied",
+   "lat": 50.43037,
+   "lng": 7.46277
+  },
+  "981": {
+   "name": "Monopol Kino München",
+   "city": "München",
+   "lat": 48.16247,
+   "lng": 11.56355
+  },
+  "984": {
+   "name": "Movie im Luitpoldhaus Marktheidenfeld",
+   "city": "Marktheidenfeld",
+   "lat": 49.84599,
+   "lng": 9.60252
+  },
+  "985": {
+   "name": "Movie Magic Eberswalde",
+   "city": "Eberswalde",
+   "lat": 52.83652,
+   "lng": 13.78664
+  },
+  "987": {
+   "name": "Movie Star Kino Güstrow",
+   "city": "Güstrow",
+   "lat": 53.79762,
+   "lng": 12.17233
+  },
+  "988": {
+   "name": "Moviemento Kino Berlin",
+   "city": "Berlin",
+   "lat": 52.49033,
+   "lng": 13.4234
+  },
+  "990": {
+   "name": "Movie Star Bad Schwartau",
+   "city": "Bad Schwartau",
+   "lat": 53.9184,
+   "lng": 10.69386
+  },
+  "995": {
+   "name": "Museum Lichtspiele München",
+   "city": "München",
+   "lat": 48.13096,
+   "lng": 11.58749
+  },
+  "996": {
+   "name": "Neue Filmbühne Bonn",
+   "city": "Bonn",
+   "lat": 50.73939,
+   "lng": 7.121
+  },
+  "997": {
+   "name": "Kamera Filmkunsttheater Bielefeld",
+   "city": "Bielefeld",
+   "lat": 52.02746,
+   "lng": 8.53393
+  },
+  "998": {
+   "name": "Neue Kammerspiele Kleinmachnow",
+   "city": "Kleinmachnow",
+   "lat": 52.41761,
+   "lng": 13.22649
+  }
+ },
+ "verifiedAt": "2026-08-30T22:30:06Z",
+ "note": "Only address-level geocodes are kept. Cinemas whose street did not resolve were dropped rather than pinned to a town centre."
+}

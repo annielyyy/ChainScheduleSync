@@ -1,0 +1,1562 @@
+{
+ "100": {
+  "addresstype": "amenity",
+  "query": "Magdeburger Straße 4, Burg bei Magdeburg, Deutschland"
+ },
+ "1000": {
+  "addresstype": "amenity",
+  "query": "Feldstraße 2a, Burgdorf, Deutschland"
+ },
+ "1001": {
+  "addresstype": "amenity",
+  "query": "Fichtestraße 6, Weiden, Deutschland"
+ },
+ "1004": {
+  "addresstype": "place",
+  "query": "Hauptstraße 60, Lindenberg im Allgäu, Deutschland"
+ },
+ "101": {
+  "addresstype": "building",
+  "query": "Heiligkreuzstraße 1, Hechingen, Deutschland"
+ },
+ "1011": {
+  "addresstype": "building",
+  "query": "Straße der Jugend 16, Cottbus, Deutschland"
+ },
+ "1018": {
+  "addresstype": "building",
+  "query": "Severinstraße 81, Köln, Deutschland"
+ },
+ "1019": {
+  "addresstype": "building",
+  "query": "Zülpicher Straße 24, Köln, Deutschland"
+ },
+ "104": {
+  "addresstype": "building",
+  "query": "Vor dem Schlosse 5e, Bad Langensalza, Deutschland"
+ },
+ "1049": {
+  "addresstype": "building",
+  "query": "Zwanzigerstraße 3, Lindau, Deutschland"
+ },
+ "105": {
+  "addresstype": "amenity",
+  "query": "Theaterplatz 1, Ratzeburg, Deutschland"
+ },
+ "1053": {
+  "addresstype": "amenity",
+  "query": "Mönckebergstraße 17, Hamburg, Deutschland"
+ },
+ "1057": {
+  "addresstype": "amenity",
+  "query": "Hainstraße 19a, Leipzig, Deutschland"
+ },
+ "1058": {
+  "addresstype": "amenity",
+  "query": "Bahnhofstraße 82, Saarbrücken, Deutschland"
+ },
+ "1059": {
+  "addresstype": "amenity",
+  "query": "Hauptstraße 29, Weilmünster, Deutschland"
+ },
+ "1063": {
+  "addresstype": "building",
+  "query": "Schüruferstraße 330, Dortmund, Deutschland"
+ },
+ "1067": {
+  "addresstype": "building",
+  "query": "Frankfurter Straße 87, Würzburg, Deutschland"
+ },
+ "1068": {
+  "addresstype": "road",
+  "query": "Auto-Union-Straße, Ingolstadt, Deutschland"
+ },
+ "1069": {
+  "addresstype": "amenity",
+  "query": "Schandauer Straße 73, Dresden, Deutschland"
+ },
+ "108": {
+  "addresstype": "place",
+  "query": "Gärtnerstraße 19, Berlin, Deutschland"
+ },
+ "1083": {
+  "addresstype": "place",
+  "query": "Dresdner Straße 56, Leipzig, Deutschland"
+ },
+ "1093": {
+  "addresstype": "amenity",
+  "query": "Frongasse 9, Bonn, Deutschland"
+ },
+ "1103": {
+  "addresstype": "amenity",
+  "query": "Düsseldorfer Straße 2, Mettmann, Deutschland"
+ },
+ "112": {
+  "addresstype": "building",
+  "query": "Holzberg 8, Helmstedt, Deutschland"
+ },
+ "1122": {
+  "addresstype": "place",
+  "query": "Apothekenstraße 17, Lüneburg, Deutschland"
+ },
+ "1126": {
+  "addresstype": "building",
+  "query": "Uhlandstr. 9, Leverkusen, Deutschland"
+ },
+ "1128": {
+  "addresstype": "building",
+  "query": "Schillerstraße 55, Öhringen, Deutschland"
+ },
+ "1131": {
+  "addresstype": "building",
+  "query": "Wörthstraße 4-6, Hof, Deutschland"
+ },
+ "1134": {
+  "addresstype": "amenity",
+  "query": "Eisenbahnstraße 182, Werder, Deutschland"
+ },
+ "1141": {
+  "addresstype": "building",
+  "query": "Vor dem Steintor 114, Bremen, Deutschland"
+ },
+ "1142": {
+  "addresstype": "road",
+  "query": "Heddesdorfer Straße 84, Neuwied, Deutschland"
+ },
+ "1146": {
+  "addresstype": "amenity",
+  "query": "Trierer Straße 55, Schmelz, Deutschland"
+ },
+ "1151": {
+  "addresstype": "building",
+  "query": "Haagstraße 60, Moers, Deutschland"
+ },
+ "116": {
+  "addresstype": "amenity",
+  "query": "Teichplan 16, Altenburg, Deutschland"
+ },
+ "1160": {
+  "addresstype": "building",
+  "query": "Karlstraße 13, Gaildorf, Deutschland"
+ },
+ "1162": {
+  "addresstype": "amenity",
+  "query": "Rathausallee 72, Norderstedt, Deutschland"
+ },
+ "1166": {
+  "addresstype": "building",
+  "query": "Hasenheide 54, Berlin, Deutschland"
+ },
+ "1176": {
+  "addresstype": "building",
+  "query": "Meininger Straße 2, Bad Neustadt an der Saale, Deutschland"
+ },
+ "1182": {
+  "addresstype": "amenity",
+  "query": "Bernstorffstraße 93, Hamburg, Deutschland"
+ },
+ "1184": {
+  "addresstype": "place",
+  "query": "Neureutherstraße 29, München, Deutschland"
+ },
+ "1185": {
+  "addresstype": "amenity",
+  "query": "Wilhelminenstraße 10, Kiel, Deutschland"
+ },
+ "1193": {
+  "addresstype": "place",
+  "query": "Thaliaweg 17a, Berlin, Deutschland"
+ },
+ "1198": {
+  "addresstype": "building",
+  "query": "Saarbrücker Straße 91, Bous, Deutschland"
+ },
+ "12": {
+  "addresstype": "amenity",
+  "query": "Liebfrauenstraße 6, Ennigerloh, Deutschland"
+ },
+ "1203": {
+  "addresstype": "amenity",
+  "query": "Richard-Sorge-Straße 25A, Berlin, Deutschland"
+ },
+ "1206": {
+  "addresstype": "amenity",
+  "query": "Bahnhofstraße 50-52, Waiblingen, Deutschland"
+ },
+ "1208": {
+  "addresstype": "building",
+  "query": "Kollwitzstraße 1, Esslingen, Deutschland"
+ },
+ "1209": {
+  "addresstype": "amenity",
+  "query": "Uhlandstraße 10, Nürtingen, Deutschland"
+ },
+ "121": {
+  "addresstype": "building",
+  "query": "Bahnhofstraße 33, Plauen, Deutschland"
+ },
+ "1210": {
+  "addresstype": "road",
+  "query": "Rosenstraße 49-51, Schorndorf (Württemberg), Deutschland"
+ },
+ "1211": {
+  "addresstype": "building",
+  "query": "Eduard-Breuninger-Straße 23, Backnang, Deutschland"
+ },
+ "1247": {
+  "addresstype": "place",
+  "query": "Bölschestraße 69, Berlin, Deutschland"
+ },
+ "1256": {
+  "addresstype": "building",
+  "query": "Neue Straße 8, Braunschweig, Deutschland"
+ },
+ "1258": {
+  "addresstype": "amenity",
+  "query": "Grandweg 44, Soest, Westfalen, Deutschland"
+ },
+ "126": {
+  "addresstype": "place",
+  "query": "Capitolplatz 4, Schleswig, Deutschland"
+ },
+ "1265": {
+  "addresstype": "amenity",
+  "query": "Thomasstraße 6, Greiz, Deutschland"
+ },
+ "1266": {
+  "addresstype": "building",
+  "query": "Berliner Promenade 17 -19, Saarbrücken, Deutschland"
+ },
+ "1277": {
+  "addresstype": "leisure",
+  "query": "Luxemburger Straße 253, Köln, Deutschland"
+ },
+ "1282": {
+  "addresstype": "amenity",
+  "query": "Südstraße 1, Neitersen, Westerwald, Deutschland"
+ },
+ "1283": {
+  "addresstype": "shop",
+  "query": "Bertha-von-Suttner-Platz 1-7, Bonn, Deutschland"
+ },
+ "1287": {
+  "addresstype": "building",
+  "query": "Joseph-Belli-Weg 5, Konstanz, Deutschland"
+ },
+ "1294": {
+  "addresstype": "building",
+  "query": "Haßstraße 22, Kiel, Deutschland"
+ },
+ "130": {
+  "addresstype": "building",
+  "query": "Elisabethstraße 1A, Herford, Deutschland"
+ },
+ "1307": {
+  "addresstype": "building",
+  "query": "Töpferstraße 17-19, Wachtberg, Deutschland"
+ },
+ "1319": {
+  "addresstype": "building",
+  "query": "Altstadt 8, Bad Brückenau, Deutschland"
+ },
+ "132": {
+  "addresstype": "amenity",
+  "query": "Auguststraße 14, Bernburg, Deutschland"
+ },
+ "1330": {
+  "addresstype": "building",
+  "query": "Schwachhauser Heerstraße 207, Bremen, Deutschland"
+ },
+ "134": {
+  "addresstype": "building",
+  "query": "Alleestraße 24, Unterschleißheim, Deutschland"
+ },
+ "1361": {
+  "addresstype": "amenity",
+  "query": "Martellstraße 2, Karlstadt, Deutschland"
+ },
+ "1380": {
+  "addresstype": "amenity",
+  "query": "Vor dem Kremper Tor 5, Neustadt in Holstein, Deutschland"
+ },
+ "1385": {
+  "addresstype": "building",
+  "query": "Leonhardstraße 4, Offingen, Deutschland"
+ },
+ "1391": {
+  "addresstype": "building",
+  "query": "Dudenhöfer Straße 33, Rodgau, Deutschland"
+ },
+ "1392": {
+  "addresstype": "building",
+  "query": "Welzheimer Straße 33, Rudersberg, Deutschland"
+ },
+ "1396": {
+  "addresstype": "building",
+  "query": "Grübchenstraße 40, Schmelz, Deutschland"
+ },
+ "140": {
+  "addresstype": "amenity",
+  "query": "Kölner Straße 24, Kerpen, Deutschland"
+ },
+ "1400": {
+  "addresstype": "amenity",
+  "query": "Neustädter Ring 2, Schwarzenberg, Deutschland"
+ },
+ "1404": {
+  "addresstype": "building",
+  "query": "Vor dem Haagtor 1, Tübingen, Deutschland"
+ },
+ "1409": {
+  "addresstype": "amenity",
+  "query": "Liebfrauenstraße 58, Weingarten, Deutschland"
+ },
+ "147": {
+  "addresstype": "building",
+  "query": "Binger Straße 75, Ingelheim, Deutschland"
+ },
+ "148": {
+  "addresstype": "amenity",
+  "query": "Brosamerstraße 12, Nürnberg, Deutschland"
+ },
+ "1496": {
+  "addresstype": "amenity",
+  "query": "Am Oberen Marienbach 3, Schweinfurt, Deutschland"
+ },
+ "1514": {
+  "addresstype": "shop",
+  "query": "Johann-Hammer-Straße 1, Bad Mergentheim, Deutschland"
+ },
+ "1533": {
+  "addresstype": "amenity",
+  "query": "An der Rennbahn 4, Krefeld, Deutschland"
+ },
+ "1543": {
+  "addresstype": "garden",
+  "query": "Am Brückenkopf, Ingolstadt, Deutschland"
+ },
+ "155": {
+  "addresstype": "road",
+  "query": "Ohmbachsgasse 1, Aschaffenburg, Deutschland"
+ },
+ "1563": {
+  "addresstype": "amenity",
+  "query": "Nansenstraße 22, Berlin, Deutschland"
+ },
+ "157": {
+  "addresstype": "amenity",
+  "query": "Blaicherstraße 1, Freudenstadt, Deutschland"
+ },
+ "1575": {
+  "addresstype": "historic",
+  "query": "Schloßgasse 11, Wertheim, Deutschland"
+ },
+ "1583": {
+  "addresstype": "place",
+  "query": "Sternschanze 1, Hamburg, Deutschland"
+ },
+ "1587": {
+  "addresstype": "amenity",
+  "query": "Maille 4-9, Esslingen, Deutschland"
+ },
+ "1589": {
+  "addresstype": "place",
+  "query": "Bolzstraße 4, Stuttgart, Deutschland"
+ },
+ "1593": {
+  "addresstype": "tourism",
+  "query": "Mercedesstraße 100, Stuttgart, Deutschland"
+ },
+ "16": {
+  "addresstype": "amenity",
+  "query": "Josef-Ponschab-Straße 1, Ingolstadt, Deutschland"
+ },
+ "1603": {
+  "addresstype": "amenity",
+  "query": "Osterfeldstraße 12, Pforzheim, Deutschland"
+ },
+ "1615": {
+  "addresstype": "tourism",
+  "query": "Wildpark Bad Mergentheim, Bad Mergentheim, Deutschland"
+ },
+ "1629": {
+  "addresstype": "amenity",
+  "query": "Kipdorf 29, Wuppertal, Deutschland"
+ },
+ "163": {
+  "addresstype": "tourism",
+  "query": "Rosenthaler Straße 39, Berlin, Deutschland"
+ },
+ "1643": {
+  "addresstype": "road",
+  "query": "Wildbader Strasse, Calw, Deutschland"
+ },
+ "1649": {
+  "addresstype": "building",
+  "query": "Müggenkampstr. 45, Hamburg, Deutschland"
+ },
+ "1653": {
+  "addresstype": "road",
+  "query": "Hinter dem Kurpark, Berlin, Deutschland"
+ },
+ "166": {
+  "addresstype": "building",
+  "query": "Altstadt 8, Hof, Deutschland"
+ },
+ "173": {
+  "addresstype": "building",
+  "query": "Hauptstraße 42a, Herzberg am Harz, Deutschland"
+ },
+ "177": {
+  "addresstype": "amenity",
+  "query": "Hafenstr. 1 A, Brake, Deutschland"
+ },
+ "179": {
+  "addresstype": "building",
+  "query": "Nicolaistraße 2a, Grimma, Deutschland"
+ },
+ "1835": {
+  "addresstype": "tourism",
+  "query": "Kirchbrunnenstraße 3, Heilbronn, Deutschland"
+ },
+ "1837": {
+  "addresstype": "building",
+  "query": "Lindauer Straße 7, Wangen im Allgäu, Deutschland"
+ },
+ "1839": {
+  "addresstype": "tourism",
+  "query": "Rosenthaler Straße 39, Berlin, Deutschland"
+ },
+ "1851": {
+  "addresstype": "building",
+  "query": "Goethestrasse 31, Kassel, Deutschland"
+ },
+ "1856": {
+  "addresstype": "place",
+  "query": "Weserstrasse 59, Berlin, Deutschland"
+ },
+ "1865": {
+  "addresstype": "amenity",
+  "query": "Neue Ramtelstraße 2, Leonberg (Württemberg), Deutschland"
+ },
+ "187": {
+  "addresstype": "amenity",
+  "query": "Osterstraße 38, Cloppenburg, Deutschland"
+ },
+ "190": {
+  "addresstype": "amenity",
+  "query": "Worthingtonstraße 10, Crailsheim, Deutschland"
+ },
+ "1906": {
+  "addresstype": "building",
+  "query": "Ziegelweg 3, Reutlingen, Deutschland"
+ },
+ "1926": {
+  "addresstype": "amenity",
+  "query": "Windscheidstr 19, Berlin, Deutschland"
+ },
+ "194": {
+  "addresstype": "building",
+  "query": "Rossmarkt 7, Frankfurt am Main, Deutschland"
+ },
+ "197": {
+  "addresstype": "building",
+  "query": "Fraunhoferstraße 5, Dachau, Deutschland"
+ },
+ "203": {
+  "addresstype": "amenity",
+  "query": "Gottlieb-Daimler-Straße 40, Zweibrücken, Deutschland"
+ },
+ "211": {
+  "addresstype": "shop",
+  "query": "K1, 2, Mannheim, Deutschland"
+ },
+ "2127": {
+  "addresstype": "amenity",
+  "query": "Emder Straße 5, Aurich, Deutschland"
+ },
+ "213": {
+  "addresstype": "amenity",
+  "query": "Berliner Straße 88, Wuppertal, Deutschland"
+ },
+ "2135": {
+  "addresstype": "amenity",
+  "query": "Ringstraße 140, Kamp-Lintfort, Deutschland"
+ },
+ "2137": {
+  "addresstype": "amenity",
+  "query": "Kalk-Mülheimer-Straße 130-132, Köln, Deutschland"
+ },
+ "2151": {
+  "addresstype": "amenity",
+  "query": "Türlensteg 29, Schwäbisch Gmünd, Deutschland"
+ },
+ "2155": {
+  "addresstype": "shop",
+  "query": "Barnstorfer Weg 4, Rostock, Deutschland"
+ },
+ "2181": {
+  "addresstype": "leisure",
+  "query": "Pappelallee 3, Grömitz, Deutschland"
+ },
+ "224": {
+  "addresstype": "amenity",
+  "query": "Mühlenplatz 1, Solingen, Deutschland"
+ },
+ "2247": {
+  "addresstype": "amenity",
+  "query": "Steinmüllerallee 16-18, Gummersbach, Deutschland"
+ },
+ "2261": {
+  "addresstype": "amenity",
+  "query": "Schiffbauergasse 6, Potsdam, Deutschland"
+ },
+ "2271": {
+  "addresstype": "amenity",
+  "query": "Burgplatz 1, Schöningen, Deutschland"
+ },
+ "2277": {
+  "addresstype": "building",
+  "query": "Grimbachstr. 55, Erndtebrück, Deutschland"
+ },
+ "2289": {
+  "addresstype": "tourism",
+  "query": "Dasbachstraße 12, Trier, Deutschland"
+ },
+ "2331": {
+  "addresstype": "amenity",
+  "query": "Oberlohnstraße 3, Konstanz, Deutschland"
+ },
+ "2339": {
+  "addresstype": "place",
+  "query": "Hermannstraße 99, Berlin, Deutschland"
+ },
+ "2391": {
+  "addresstype": "amenity",
+  "query": "Theodor-Heuss-Platz 6-9, Osnabrück, Deutschland"
+ },
+ "2409": {
+  "addresstype": "road",
+  "query": "Konrad-Adenauer-Straße, Lüdinghausen, Deutschland"
+ },
+ "2423": {
+  "addresstype": "amenity",
+  "query": "Boxhagener Strasse 107, Berlin, Deutschland"
+ },
+ "250": {
+  "addresstype": "tourism",
+  "query": "Karlsburg 1, Bremerhaven, Deutschland"
+ },
+ "251": {
+  "addresstype": "amenity",
+  "query": "An der Mühle 2, Hoyerswerda, Deutschland"
+ },
+ "253": {
+  "addresstype": "amenity",
+  "query": "Hinter dem Klosterhof 6, Itzehoe, Deutschland"
+ },
+ "254": {
+  "addresstype": "amenity",
+  "query": "Wartenberger Straße 174, Berlin, Deutschland"
+ },
+ "255": {
+  "addresstype": "amenity",
+  "query": "Herbrandstraße 11, Köln, Deutschland"
+ },
+ "257": {
+  "addresstype": "amenity",
+  "query": "Marktplatz 22A, Krumbach, Deutschland"
+ },
+ "2659": {
+  "addresstype": "building",
+  "query": "An der Badeanstalt 1, Cremlingen, Deutschland"
+ },
+ "2661": {
+  "addresstype": "building",
+  "query": "Am Kirschberg 4, Weimar, Deutschland"
+ },
+ "2705": {
+  "addresstype": "building",
+  "query": "Isenser Burweg 6, Butjadingen, Deutschland"
+ },
+ "2723": {
+  "addresstype": "amenity",
+  "query": "Ringstraße 140, Bergen auf Rügen, Deutschland"
+ },
+ "2773": {
+  "addresstype": "road",
+  "query": "Querallee 8, Dessau, Anhalt, Deutschland"
+ },
+ "2797": {
+  "addresstype": "building",
+  "query": "Koblenzerstr.25, Mayen, Deutschland"
+ },
+ "2819": {
+  "addresstype": "building",
+  "query": "Michaelisstraße 10, Erfurt, Deutschland"
+ },
+ "2845": {
+  "addresstype": "building",
+  "query": "Reutenerstr. 12, Wasserburg (Bodensee), Deutschland"
+ },
+ "2889": {
+  "addresstype": "road",
+  "query": "Portastraße 1, Porta Westfalica, Deutschland"
+ },
+ "2893": {
+  "addresstype": "place",
+  "query": "Klostergang 4, Erfurt, Deutschland"
+ },
+ "2899": {
+  "addresstype": "road",
+  "query": "Zedernweg, Oranienbaum-Wörlitz, Deutschland"
+ },
+ "29": {
+  "addresstype": "building",
+  "query": "Hans-Sachs-Straße 7, München, Deutschland"
+ },
+ "292": {
+  "addresstype": "amenity",
+  "query": "Zerrennerstraße 35, Pforzheim, Deutschland"
+ },
+ "2929": {
+  "addresstype": "amenity",
+  "query": "Hochstädter Str. 13, Rodgau, Deutschland"
+ },
+ "2931": {
+  "addresstype": "leisure",
+  "query": "Grotenburg 50, Detmold, Deutschland"
+ },
+ "2933": {
+  "addresstype": "amenity",
+  "query": "Sinema Transtopia Berlin, Berlin, Deutschland"
+ },
+ "2935": {
+  "addresstype": "building",
+  "query": "Bürgerstr. 13, Göttingen, Deutschland"
+ },
+ "3": {
+  "addresstype": "amenity",
+  "query": "Allende-Platz 3, Hamburg, Deutschland"
+ },
+ "3001": {
+  "addresstype": "amenity",
+  "query": "Donauwörther Str. 8, Gersthofen, Deutschland"
+ },
+ "3039": {
+  "addresstype": "building",
+  "query": "Mauerstraße 6, Berlin, Deutschland"
+ },
+ "3041": {
+  "addresstype": "amenity",
+  "query": "Carl-Schurz-Strasse 13, Berlin, Deutschland"
+ },
+ "3069": {
+  "addresstype": "tourism",
+  "query": "Klaus-Strick-Weg 12, Osnabrück, Deutschland"
+ },
+ "3089": {
+  "addresstype": "amenity",
+  "query": "Würzburger Straße 45, Aschaffenburg, Deutschland"
+ },
+ "3091": {
+  "addresstype": "road",
+  "query": "Seitenstraße 27, Geislingen, Deutschland"
+ },
+ "3103": {
+  "addresstype": "amenity",
+  "query": "Burgplatz 1, Schöningen, Deutschland"
+ },
+ "3167": {
+  "addresstype": "building",
+  "query": "Hahnweg 2, Coburg, Deutschland"
+ },
+ "3169": {
+  "addresstype": "amenity",
+  "query": "Neue Ramtelstraße 2, Leonberg (Württemberg), Deutschland"
+ },
+ "3205": {
+  "addresstype": "road",
+  "query": "Ruhlander Straße 37-38, Schwarzheide, Deutschland"
+ },
+ "3207": {
+  "addresstype": "amenity",
+  "query": "Steeler Straße 208-212, Essen, Deutschland"
+ },
+ "3211": {
+  "addresstype": "building",
+  "query": "Bahnhofstraße 127, Gangelt, Deutschland"
+ },
+ "3213": {
+  "addresstype": "amenity",
+  "query": "Schloßstraße 9, Tettnang, Deutschland"
+ },
+ "3221": {
+  "addresstype": "office",
+  "query": "Oberlandstraße 26-35, Berlin, Deutschland"
+ },
+ "3225": {
+  "addresstype": "amenity",
+  "query": "Kurstraße 3, Bad Nauheim, Deutschland"
+ },
+ "3227": {
+  "addresstype": "amenity",
+  "query": "Glogauer Straße 50, Nürnberg, Deutschland"
+ },
+ "3243": {
+  "addresstype": "tourism",
+  "query": "Strandbadstraße 13, Hagnau am Bodensee, Deutschland"
+ },
+ "3245": {
+  "addresstype": "leisure",
+  "query": "Sportplatz in Ostrach, Ostrach, Deutschland"
+ },
+ "3247": {
+  "addresstype": "building",
+  "query": "Frankfurter Straße 87, Würzburg, Deutschland"
+ },
+ "3249": {
+  "addresstype": "building",
+  "query": "Hauptstraße 2, Gernsbach, Deutschland"
+ },
+ "3259": {
+  "addresstype": "road",
+  "query": "Goffartstraße, Aachen, Deutschland"
+ },
+ "33": {
+  "addresstype": "building",
+  "query": "Hintere Grabenstr. 20, Tübingen, Deutschland"
+ },
+ "3305": {
+  "addresstype": "building",
+  "query": "Müllerstraße 74, Berlin, Deutschland"
+ },
+ "3311": {
+  "addresstype": "amenity",
+  "query": "Aachener Str. 57, Erkelenz, Deutschland"
+ },
+ "3313": {
+  "addresstype": "amenity",
+  "query": "Massener Straße 32-38, Unna, Deutschland"
+ },
+ "3333": {
+  "addresstype": "building",
+  "query": "Ratskellerstr. 2b, Achern (Baden), Deutschland"
+ },
+ "3341": {
+  "addresstype": "tourism",
+  "query": "Alte Mühlenstraße 6, Friesoythe, Deutschland"
+ },
+ "3343": {
+  "addresstype": "amenity",
+  "query": "Daniel-Kohler-Straße 1, Kaufbeuren, Deutschland"
+ },
+ "3529": {
+  "addresstype": "amenity",
+  "query": "Sieglindestraße 10, Berlin, Deutschland"
+ },
+ "3533": {
+  "addresstype": "amenity",
+  "query": "Bahnhofstraße 9-11, Meppen, Deutschland"
+ },
+ "3563": {
+  "addresstype": "place",
+  "query": "Bachstraße 15A, Ibbenbüren, Deutschland"
+ },
+ "3567": {
+  "addresstype": "road",
+  "query": "Hauptkanal rechts 27, Papenburg, Deutschland"
+ },
+ "3573": {
+  "addresstype": "amenity",
+  "query": "Ostertorsteinweg 105, Bremen, Deutschland"
+ },
+ "3579": {
+  "addresstype": "amenity",
+  "query": "Sterleyer Str. 44, Mölln, Deutschland"
+ },
+ "3581": {
+  "addresstype": "place",
+  "query": "Oststraße 20, Velbert, Deutschland"
+ },
+ "3593": {
+  "addresstype": "amenity",
+  "query": "Im Herrengarten 8, Bad Berleburg, Deutschland"
+ },
+ "3595": {
+  "addresstype": "place",
+  "query": "Lintorfer Str. 1, Ratingen, Deutschland"
+ },
+ "3597": {
+  "addresstype": "amenity",
+  "query": "Bolzstraße 10, Stuttgart, Deutschland"
+ },
+ "3599": {
+  "addresstype": "amenity",
+  "query": "Grasweg 19, Kiel, Deutschland"
+ },
+ "3605": {
+  "addresstype": "amenity",
+  "query": "Geschwister-Scholl-Platz 2, Bad Kissingen, Deutschland"
+ },
+ "3607": {
+  "addresstype": "amenity",
+  "query": "Hülsstr. 23, Marl, Westfalen, Deutschland"
+ },
+ "3623": {
+  "addresstype": "building",
+  "query": "Friedrichstraße 19, Tübingen, Deutschland"
+ },
+ "3625": {
+  "addresstype": "amenity",
+  "query": "Am Stadtgraben 2, Tübingen, Deutschland"
+ },
+ "3627": {
+  "addresstype": "building",
+  "query": "Vor dem Haagtor 1, Tübingen, Deutschland"
+ },
+ "3629": {
+  "addresstype": "building",
+  "query": "Landauer Straße 19b, Pirmasens, Deutschland"
+ },
+ "3637": {
+  "addresstype": "amenity",
+  "query": "Alt-Stralau 68, Berlin, Deutschland"
+ },
+ "3645": {
+  "addresstype": "amenity",
+  "query": "Antonienstraße 21, Leipzig, Deutschland"
+ },
+ "3647": {
+  "addresstype": "amenity",
+  "query": "Hirschlachufer 1, Erfurt, Deutschland"
+ },
+ "3651": {
+  "addresstype": "amenity",
+  "query": "Herzogstraße 1, München, Deutschland"
+ },
+ "3653": {
+  "addresstype": "building",
+  "query": "Leopoldstraße 78, München, Deutschland"
+ },
+ "3657": {
+  "addresstype": "building",
+  "query": "Zollhüttengasse 6, Schwäbisch Hall, Deutschland"
+ },
+ "3659": {
+  "addresstype": "amenity",
+  "query": "Im Lindach 8, Schwäbisch Hall, Deutschland"
+ },
+ "3667": {
+  "addresstype": "building",
+  "query": "Bismarckstraße 17, Wertheim, Deutschland"
+ },
+ "3673": {
+  "addresstype": "road",
+  "query": "Eichwaldstraße 16-20, Lindau, Deutschland"
+ },
+ "3681": {
+  "addresstype": "building",
+  "query": "Neubrunnenstraße 9, Mainz, Deutschland"
+ },
+ "3699": {
+  "addresstype": "building",
+  "query": "Königstraße 3, Kempten, Deutschland"
+ },
+ "3711": {
+  "addresstype": "shop",
+  "query": "Domherrenstraße 6, Zeitz, Deutschland"
+ },
+ "3715": {
+  "addresstype": "amenity",
+  "query": "Theaterstraße 1, Mittweida, Deutschland"
+ },
+ "3717": {
+  "addresstype": "shop",
+  "query": "Neustädter Passage 17D, Halle (Saale), Deutschland"
+ },
+ "3723": {
+  "addresstype": "place",
+  "query": "Ingeborg-Friebe-Platz 15, Monheim am Rhein, Deutschland"
+ },
+ "3725": {
+  "addresstype": "building",
+  "query": "Hauptstraße 103, Miltenberg, Deutschland"
+ },
+ "3749": {
+  "addresstype": "building",
+  "query": "Markt 10, Northeim, Deutschland"
+ },
+ "3753": {
+  "addresstype": "amenity",
+  "query": "Holzgartenstraße 22, Regensburg, Deutschland"
+ },
+ "3755": {
+  "addresstype": "amenity",
+  "query": "Landshuter Allee 33, München, Deutschland"
+ },
+ "3759": {
+  "addresstype": "building",
+  "query": "Leipziger Straße 24, Gera, Deutschland"
+ },
+ "3765": {
+  "addresstype": "building",
+  "query": "Sophienstraße 22, Baden-Baden, Deutschland"
+ },
+ "3783": {
+  "addresstype": "amenity",
+  "query": "Marktplatz 18a, Holzkirchen, Deutschland"
+ },
+ "3785": {
+  "addresstype": "square",
+  "query": "Herbert-und-Greta-Wehner-Platz, Hamburg, Deutschland"
+ },
+ "3787": {
+  "addresstype": "amenity",
+  "query": "Bismarckstraße 2, Dillenburg, Deutschland"
+ },
+ "3793": {
+  "addresstype": "building",
+  "query": "Käsgasse 17, Weiler-Simmerberg, Deutschland"
+ },
+ "3795": {
+  "addresstype": "office",
+  "query": "Landsberger Straße 57, Inning am Ammersee, Deutschland"
+ },
+ "3803": {
+  "addresstype": "building",
+  "query": "Poststraße 36, Göppingen, Deutschland"
+ },
+ "3807": {
+  "addresstype": "isolated_dwelling",
+  "query": "Josefshof 1, Völkersweiler, Deutschland"
+ },
+ "3811": {
+  "addresstype": "building",
+  "query": "Am Nuthefließ 6, Luckenwalde, Deutschland"
+ },
+ "3813": {
+  "addresstype": "amenity",
+  "query": "Osterstraße 38, Cloppenburg, Deutschland"
+ },
+ "3817": {
+  "addresstype": "building",
+  "query": "Nuttelner Straße 50, Rahden, Deutschland"
+ },
+ "3831": {
+  "addresstype": "building",
+  "query": "Sternstraße 12-13, Lutherstadt Wittenberg, Deutschland"
+ },
+ "3839": {
+  "addresstype": "office",
+  "query": "Urbanstraße 71, Berlin, Deutschland"
+ },
+ "3843": {
+  "addresstype": "amenity",
+  "query": "Schanzenstraße 75, Hamburg, Deutschland"
+ },
+ "3845": {
+  "addresstype": "building",
+  "query": "Freudenstädter Straße 42, Nagold, Deutschland"
+ },
+ "3847": {
+  "addresstype": "building",
+  "query": "Trierer Str. 30, Merzig, Deutschland"
+ },
+ "3859": {
+  "addresstype": "building",
+  "query": "Hochstraße 95, Heinsberg, Deutschland"
+ },
+ "3867": {
+  "addresstype": "amenity",
+  "query": "Rudolf-Breitscheid-Straße 50, Potsdam, Deutschland"
+ },
+ "3870": {
+  "addresstype": "building",
+  "query": "Obstmarkt 5, Augsburg, Deutschland"
+ },
+ "3879": {
+  "addresstype": "building",
+  "query": "Schwimmschulstraße 5, Augsburg, Deutschland"
+ },
+ "3881": {
+  "addresstype": "office",
+  "query": "Emmy-Noether-Ring 42, Unterschleißheim, Deutschland"
+ },
+ "3883": {
+  "addresstype": "amenity",
+  "query": "Osterstraße 50, Norden, Deutschland"
+ },
+ "3885": {
+  "addresstype": "amenity",
+  "query": "Arzheimerstr. 75, Ilbesheim bei Landau in der Pfalz, Deutschland"
+ },
+ "3891": {
+  "addresstype": "place",
+  "query": "Congressplatz 1, Hamburg, Deutschland"
+ },
+ "3899": {
+  "addresstype": "amenity",
+  "query": "Tichelstraße 12a, Kleve, Deutschland"
+ },
+ "39": {
+  "addresstype": "building",
+  "query": "Teichstraße 2, Essen, Deutschland"
+ },
+ "3901": {
+  "addresstype": "building",
+  "query": "Holstenkamp 7, Barntrup, Deutschland"
+ },
+ "404": {
+  "addresstype": "building",
+  "query": "Im Hagen 3, Lünen, Deutschland"
+ },
+ "408": {
+  "addresstype": "amenity",
+  "query": "Birkenstraße 1, Bremen, Deutschland"
+ },
+ "419": {
+  "addresstype": "amenity",
+  "query": "Neue Strandstraße 20, Zinnowitz, Deutschland"
+ },
+ "42": {
+  "addresstype": "amenity",
+  "query": "Hohe Straße 26, Stuttgart, Deutschland"
+ },
+ "426": {
+  "addresstype": "place",
+  "query": "Viersener Straße 8, Mönchengladbach, Deutschland"
+ },
+ "432": {
+  "addresstype": "building",
+  "query": "Breite Straße 3, Hückelhoven, Deutschland"
+ },
+ "440": {
+  "addresstype": "amenity",
+  "query": "Fritz-Erler-Straße 21, Düren, Deutschland"
+ },
+ "442": {
+  "addresstype": "amenity",
+  "query": "Tübinger Straße 6, Stuttgart, Deutschland"
+ },
+ "445": {
+  "addresstype": "building",
+  "query": "Porschestraße 39, Wolfsburg, Deutschland"
+ },
+ "450": {
+  "addresstype": "building",
+  "query": "Hintergasse 3, Biblis, Deutschland"
+ },
+ "452": {
+  "addresstype": "amenity",
+  "query": "Donaustraße 7, Wörth an der Donau, Deutschland"
+ },
+ "455": {
+  "addresstype": "building",
+  "query": "Töpferstraße 17-19, Wachtberg, Deutschland"
+ },
+ "456": {
+  "addresstype": "building",
+  "query": "Sulzbachstraße 32, Oberndorf am Neckar, Deutschland"
+ },
+ "465": {
+  "addresstype": "amenity",
+  "query": "Osdorfer Landstraße 198, Hamburg, Deutschland"
+ },
+ "466": {
+  "addresstype": "building",
+  "query": "Schäfergasse 29, Frankfurt am Main, Deutschland"
+ },
+ "469": {
+  "addresstype": "tourism",
+  "query": "Gloria Stuttgart, Stuttgart, Deutschland"
+ },
+ "47": {
+  "addresstype": "building",
+  "query": "Böttcherstraße 4, Bremen, Deutschland"
+ },
+ "470": {
+  "addresstype": "place",
+  "query": "Bolzstraße 4, Stuttgart, Deutschland"
+ },
+ "471": {
+  "addresstype": "road",
+  "query": "Hauptkanal rechts 27, Papenburg, Deutschland"
+ },
+ "517": {
+  "addresstype": "amenity",
+  "query": "Bleibtreustr. 12, Berlin, Deutschland"
+ },
+ "518": {
+  "addresstype": "building",
+  "query": "Untere Karlsstraße 4, Kassel, Deutschland"
+ },
+ "522": {
+  "addresstype": "amenity",
+  "query": "Lange Straße 5, Wolfenbüttel, Deutschland"
+ },
+ "525": {
+  "addresstype": "road",
+  "query": "Börnicker Chaussee 1-3, Bernau bei Berlin, Deutschland"
+ },
+ "526": {
+  "addresstype": "amenity",
+  "query": "Berliner Straße 40, Oranienburg, Deutschland"
+ },
+ "535": {
+  "addresstype": "amenity",
+  "query": "Lehrter Straße 35, Berlin, Deutschland"
+ },
+ "539": {
+  "addresstype": "amenity",
+  "query": "Rüttenscheider Straße 2, Essen, Deutschland"
+ },
+ "54": {
+  "addresstype": "leisure",
+  "query": "Badstraße 2, Geyer, Deutschland"
+ },
+ "545": {
+  "addresstype": "road",
+  "query": "Mühlgasse 10, Wertingen, Deutschland"
+ },
+ "547": {
+  "addresstype": "building",
+  "query": "Waldstraße 1c, Kühlungsborn, Ostseebad, Deutschland"
+ },
+ "557": {
+  "addresstype": "amenity",
+  "query": "Königsbrücker Straße 55, Dresden, Deutschland"
+ },
+ "558": {
+  "addresstype": "amenity",
+  "query": "Berliner Straße 10, Fürstenwalde, Spree, Deutschland"
+ },
+ "561": {
+  "addresstype": "amenity",
+  "query": "Rudolf Breitscheid Straße 78, Cottbus, Deutschland"
+ },
+ "566": {
+  "addresstype": "amenity",
+  "query": "Poststraße 36, Böblingen, Deutschland"
+ },
+ "573": {
+  "addresstype": "place",
+  "query": "Untere Scheuerngasse 5, Zeil am Main, Deutschland"
+ },
+ "580": {
+  "addresstype": "amenity",
+  "query": "Freiluftkino Hasenheide, Berlin, Deutschland"
+ },
+ "593": {
+  "addresstype": "amenity",
+  "query": "Julienstraße 73, Essen, Deutschland"
+ },
+ "594": {
+  "addresstype": "building",
+  "query": "Weißgerbergraben 11a, Regensburg, Deutschland"
+ },
+ "595": {
+  "addresstype": "amenity",
+  "query": "Bahnhofstraße 9-11, Meppen, Deutschland"
+ },
+ "596": {
+  "addresstype": "amenity",
+  "query": "Steingrubestraße 7, Geislingen, Deutschland"
+ },
+ "597": {
+  "addresstype": "building",
+  "query": "Hauptstraße 146, Heidelberg, Deutschland"
+ },
+ "598": {
+  "addresstype": "building",
+  "query": "Buchholzer Straße 10, Annaberg-Buchholz, Deutschland"
+ },
+ "600": {
+  "addresstype": "building",
+  "query": "Friedrich-Ebert-Straße 3, Kassel, Deutschland"
+ },
+ "609": {
+  "addresstype": "shop",
+  "query": "Ostwall 31, Grevenbroich, Deutschland"
+ },
+ "613": {
+  "addresstype": "place",
+  "query": "Jagdfeldring 97, Haar, Deutschland"
+ },
+ "614": {
+  "addresstype": "amenity",
+  "query": "Hackesche Höfe Kino Berlin, Berlin, Deutschland"
+ },
+ "618": {
+  "addresstype": "building",
+  "query": "Herrlichkeit 3, Syke, Deutschland"
+ },
+ "619": {
+  "addresstype": "building",
+  "query": "Neue Torstraße 33, Lemgo, Deutschland"
+ },
+ "621": {
+  "addresstype": "building",
+  "query": "Dreieichstraße 54, Frankfurt am Main, Deutschland"
+ },
+ "623": {
+  "addresstype": "leisure",
+  "query": "Vor dem Haveltor 1, Rathenow, Deutschland"
+ },
+ "627": {
+  "addresstype": "building",
+  "query": "Gelderstraße 25, Geldern, Deutschland"
+ },
+ "633": {
+  "addresstype": "building",
+  "query": "Adolf-Kolping-Straße 15, Mühldorf am Inn, Deutschland"
+ },
+ "635": {
+  "addresstype": "road",
+  "query": "Museumsplatz, Sinsheim, Deutschland"
+ },
+ "638": {
+  "addresstype": "amenity",
+  "query": "Moraltpark 1 h, Bad Tölz, Deutschland"
+ },
+ "64": {
+  "addresstype": "road",
+  "query": "Bahnberg 10, Alzey, Deutschland"
+ },
+ "640": {
+  "addresstype": "building",
+  "query": "Brückenstraße 26, Heidelberg, Deutschland"
+ },
+ "641": {
+  "addresstype": "office",
+  "query": "Braunschweiger Straße 36, Königslutter, Deutschland"
+ },
+ "649": {
+  "addresstype": "place",
+  "query": "Buttermarkt 15, Kempen, Deutschland"
+ },
+ "656": {
+  "addresstype": "amenity",
+  "query": "Am Rathausplatz 1, Bad Driburg, Deutschland"
+ },
+ "658": {
+  "addresstype": "building",
+  "query": "Benefizgasse 5, Neckarsulm, Deutschland"
+ },
+ "66": {
+  "addresstype": "railway",
+  "query": "Rainer-Dierichs-Platz 1, Kassel, Deutschland"
+ },
+ "661": {
+  "addresstype": "building",
+  "query": "Luitpoldstraße 25, Bamberg, Deutschland"
+ },
+ "665": {
+  "addresstype": "leisure",
+  "query": "Coubertinplatz 1, München, Deutschland"
+ },
+ "67": {
+  "addresstype": "amenity",
+  "query": "Adolfstraße 120, Bad Schwalbach, Deutschland"
+ },
+ "670": {
+  "addresstype": "amenity",
+  "query": "Rosa-Luxemburg-Straße 30, Berlin, Deutschland"
+ },
+ "672": {
+  "addresstype": "building",
+  "query": "Augsburger Straße 52, Günzburg, Deutschland"
+ },
+ "679": {
+  "addresstype": "place",
+  "query": "Friedenstraße 12, Berlin, Deutschland"
+ },
+ "685": {
+  "addresstype": "amenity",
+  "query": "Burgstraße 6, Döbeln, Deutschland"
+ },
+ "693": {
+  "addresstype": "road",
+  "query": "Herzbachweg 1-3, Gelnhausen, Deutschland"
+ },
+ "698": {
+  "addresstype": "building",
+  "query": "Kraftwerk Mitte 16, Dresden, Deutschland"
+ },
+ "728": {
+  "addresstype": "building",
+  "query": "Geismar Landstraße 19, Göttingen, Deutschland"
+ },
+ "736": {
+  "addresstype": "building",
+  "query": "Friedrichstraße 58, Erkner, Deutschland"
+ },
+ "744": {
+  "addresstype": "building",
+  "query": "Adolf-Schmetzer-Straße 5, Regensburg, Deutschland"
+ },
+ "746": {
+  "addresstype": "amenity",
+  "query": "Göltzschtalstraße 35, Auerbach, Vogtland, Deutschland"
+ },
+ "747": {
+  "addresstype": "building",
+  "query": "Synagogenplatz 3, Mülheim an der Ruhr, Deutschland"
+ },
+ "748": {
+  "addresstype": "building",
+  "query": "Rosenheimer Straße 46, München, Deutschland"
+ },
+ "750": {
+  "addresstype": "road",
+  "query": "Nordertor 2, Helmstedt, Deutschland"
+ },
+ "756": {
+  "addresstype": "place",
+  "query": "Antonplatz 1, Berlin, Deutschland"
+ },
+ "759": {
+  "addresstype": "tourism",
+  "query": "Walsroder Straße 105, Langenhagen, Deutschland"
+ },
+ "764": {
+  "addresstype": "amenity",
+  "query": "Alt-Stralau 68, Berlin, Deutschland"
+ },
+ "766": {
+  "addresstype": "building",
+  "query": "Breitstraße 9, Groitzsch, Deutschland"
+ },
+ "77": {
+  "addresstype": "amenity",
+  "query": "Wendelinusstraße 45, Hürth, Deutschland"
+ },
+ "770": {
+  "addresstype": "amenity",
+  "query": "Reichenstraße 19, Boizenburg, Elbe, Deutschland"
+ },
+ "776": {
+  "addresstype": "building",
+  "query": "Neue Eisenbahnstraße 8, Haslach im Kinzigtal, Deutschland"
+ },
+ "778": {
+  "addresstype": "amenity",
+  "query": "Nordertorstraße 6, Winsen, Deutschland"
+ },
+ "785": {
+  "addresstype": "building",
+  "query": "Regentalstraße 24, Nittenau, Deutschland"
+ },
+ "786": {
+  "addresstype": "amenity",
+  "query": "Mühlenstraße 88, Leer, Deutschland"
+ },
+ "796": {
+  "addresstype": "place",
+  "query": "Johann-Walling-Straße 26, Borken, Westfalen, Deutschland"
+ },
+ "798": {
+  "addresstype": "amenity",
+  "query": "Sonnenstraße 104, Albstadt (Württemberg), Deutschland"
+ },
+ "800": {
+  "addresstype": "building",
+  "query": "Albert-Einstein-Straße 2, Landau, Deutschland"
+ },
+ "806": {
+  "addresstype": "amenity",
+  "query": "Bergwerkstraße 1, Hausham, Deutschland"
+ },
+ "809": {
+  "addresstype": "amenity",
+  "query": "Bahnhofstraße 6, Hechingen, Deutschland"
+ },
+ "81": {
+  "addresstype": "amenity",
+  "query": "Blankeneser Bahnhofstraße 4, Hamburg, Deutschland"
+ },
+ "811": {
+  "addresstype": "amenity",
+  "query": "Brunckstraße 13, Speyer, Deutschland"
+ },
+ "812": {
+  "addresstype": "building",
+  "query": "Trifthofstraße 58, Weilheim, Deutschland"
+ },
+ "814": {
+  "addresstype": "amenity",
+  "query": "Westl. Stadtgraben 26, Deggendorf, Deutschland"
+ },
+ "815": {
+  "addresstype": "building",
+  "query": "Meckenemstraße 8, Bocholt, Deutschland"
+ },
+ "819": {
+  "addresstype": "amenity",
+  "query": "Hirschlachufer 1, Erfurt, Deutschland"
+ },
+ "820": {
+  "addresstype": "shop",
+  "query": "Greifenhagener Straße 32, Berlin, Deutschland"
+ },
+ "828": {
+  "addresstype": "amenity",
+  "query": "Bahnstraße 37, Erlenbach am Main, Deutschland"
+ },
+ "842": {
+  "addresstype": "building",
+  "query": "Andreasstraße 28, Regensburg, Deutschland"
+ },
+ "843": {
+  "addresstype": "building",
+  "query": "Bahnhofstraße 1, Mosbach, Deutschland"
+ },
+ "844": {
+  "addresstype": "building",
+  "query": "Am Gottesackertor 1, Bretten, Deutschland"
+ },
+ "858": {
+  "addresstype": "place",
+  "query": "Schloßberg 20, Pforzheim, Deutschland"
+ },
+ "860": {
+  "addresstype": "amenity",
+  "query": "Maille 4-9, Esslingen, Deutschland"
+ },
+ "862": {
+  "addresstype": "building",
+  "query": "Carl-Ulrich-Straße 9, Weiterstadt, Deutschland"
+ },
+ "872": {
+  "addresstype": "building",
+  "query": "Steinstraße 19, Brandenburg an der Havel, Deutschland"
+ },
+ "873": {
+  "addresstype": "place",
+  "query": "Kattjahren 1, Hamburg, Deutschland"
+ },
+ "881": {
+  "addresstype": "building",
+  "query": "Ignaz-Schön-Straße 32, Schweinfurt, Deutschland"
+ },
+ "895": {
+  "addresstype": "building",
+  "query": "Landauer Straße 1, Annweiler am Trifels, Deutschland"
+ },
+ "897": {
+  "addresstype": "building",
+  "query": "Königstraße 19, Hennef, Deutschland"
+ },
+ "90": {
+  "addresstype": "road",
+  "query": "Hirschgässle 7a, Schwäbisch Gmünd, Deutschland"
+ },
+ "904": {
+  "addresstype": "place",
+  "query": "Kastanienallee 77, Berlin, Deutschland"
+ },
+ "905": {
+  "addresstype": "building",
+  "query": "Kettwiger Straße 36, Essen, Deutschland"
+ },
+ "910": {
+  "addresstype": "building",
+  "query": "Elsässer Straße 26, Oberhausen, Deutschland"
+ },
+ "911": {
+  "addresstype": "building",
+  "query": "Am Kirschberg 4, Weimar, Deutschland"
+ },
+ "914": {
+  "addresstype": "building",
+  "query": "Untere Königstraße 34, Bamberg, Deutschland"
+ },
+ "92": {
+  "addresstype": "building",
+  "query": "Paulinstraße 18, Trier, Deutschland"
+ },
+ "920": {
+  "addresstype": "amenity",
+  "query": "Maisacher Straße 7, Fürstenfeldbruck, Deutschland"
+ },
+ "924": {
+  "addresstype": "amenity",
+  "query": "Friedrichstraße 23, Rostock, Deutschland"
+ },
+ "925": {
+  "addresstype": "amenity",
+  "query": "Ravensberger Park 7, Bielefeld, Deutschland"
+ },
+ "927": {
+  "addresstype": "building",
+  "query": "Unterer Graben 1, Augsburg, Deutschland"
+ },
+ "935": {
+  "addresstype": "amenity",
+  "query": "Seebener Straße 172, Halle (Saale), Deutschland"
+ },
+ "95": {
+  "addresstype": "amenity",
+  "query": "Bahnhofstraße 1, Bünde, Deutschland"
+ },
+ "953": {
+  "addresstype": "amenity",
+  "query": "Bahnhofsplatz 9, Hameln, Deutschland"
+ },
+ "964": {
+  "addresstype": "amenity",
+  "query": "Beethovenstraße 80, Gaggenau, Deutschland"
+ },
+ "967": {
+  "addresstype": "road",
+  "query": "Postplatz, Böblingen, Deutschland"
+ },
+ "970": {
+  "addresstype": "amenity",
+  "query": "Kleine Theaterstraße 10, Hamburg, Deutschland"
+ },
+ "975": {
+  "addresstype": "amenity",
+  "query": "Heddesdorfer Straße 2, Neuwied, Deutschland"
+ },
+ "981": {
+  "addresstype": "building",
+  "query": "Schleißheimer Straße 127, München, Deutschland"
+ },
+ "984": {
+  "addresstype": "amenity",
+  "query": "Movie im Luitpoldhaus Marktheidenfeld, Marktheidenfeld, Deutschland"
+ },
+ "985": {
+  "addresstype": "amenity",
+  "query": "Heegermühler Straße 27, Eberswalde, Deutschland"
+ },
+ "987": {
+  "addresstype": "amenity",
+  "query": "Eisenbahnstraße 16, Güstrow, Deutschland"
+ },
+ "988": {
+  "addresstype": "amenity",
+  "query": "Kottbusser Damm 22, Berlin, Deutschland"
+ },
+ "990": {
+  "addresstype": "shop",
+  "query": "Eutiner Ring 14, Bad Schwartau, Deutschland"
+ },
+ "995": {
+  "addresstype": "amenity",
+  "query": "Lilienstraße 2, München, Deutschland"
+ },
+ "996": {
+  "addresstype": "amenity",
+  "query": "Friedrich-Breuer-Straße 68-70, Bonn, Deutschland"
+ },
+ "997": {
+  "addresstype": "amenity",
+  "query": "Feilenstraße 4, Bielefeld, Deutschland"
+ },
+ "998": {
+  "addresstype": "amenity",
+  "query": "Karl-Marx-Straße 18, Kleinmachnow, Deutschland"
+ }
+}
